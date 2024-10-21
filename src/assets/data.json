@@ -1,1085 +1,111 @@
 [
   {
-    "id": "77536",
-    "post_title": "Shadow Minion Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/shadow-minion-necromancer-guide",
-    "embed_id": "dqih026y",
-    "author": "Chronikz",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 14, 2024",
-    "last_modified_unix": 1718356727,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
-      }
-    ]
-  },
-  {
-    "id": "78208",
-    "post_title": "Fire Bolt Sorcerer Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/fire-bolt-sorcerer-build-guide",
-    "embed_id": "zhs10wyk",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "June 15, 2024",
-    "last_modified_unix": 1718471071,
-    "items": [
-      {
-        "id": "Gloves_Unique_Sorc_101",
-        "name": "Flameweaver"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Chest_Unique_Sorc_002",
-        "name": "Raiment of the Infinite"
-      }
-    ]
-  },
-  {
-    "id": "76569",
-    "post_title": "Hurricane Druid Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/hurricane-druid-guide",
-    "embed_id": "kb6i70wo",
-    "author": "boiler",
-    "classes": ["d4-druid"],
-    "last_modified": "June 17, 2024",
-    "last_modified_unix": 1718582487,
-    "items": [
-      {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
-      },
-      {
-        "id": "Ring_Unique_Druid_003",
-        "name": "Hunter's Zenith"
-      }
-    ]
-  },
-  {
-    "id": "78936",
-    "post_title": "Death Blow Bonk Barbarian Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/kick-death-blow-guide",
-    "embed_id": "jl9jz0w4",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 18, 2024",
-    "last_modified_unix": 1718683292,
-    "items": [
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Barb_100",
-        "name": "Ring of Red Furor"
-      },
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "2HMace_Unique_Barb_100",
-        "name": "Overkill"
-      }
-    ]
-  },
-  {
-    "id": "78223",
-    "post_title": "Bash Barbarian Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/bash-barbarian-guide",
-    "embed_id": "xjev2020",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 18, 2024",
-    "last_modified_unix": 1718685576,
-    "items": [
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Gloves_Unique_Generic_004",
-        "name": "Paingorger's Gauntlets"
-      },
-      {
-        "id": "Boots_Unique_Generic_125",
-        "name": "Yen's Blessing"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "2HSword_Unique_Generic_001",
-        "name": "The Grandfather"
-      }
-    ]
-  },
-  {
-    "id": "78565",
-    "post_title": "Leapquake Barbarian Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/leapquake-barbarian-guide",
-    "embed_id": "lxi3h02v",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 18, 2024",
-    "last_modified_unix": 1718686138,
-    "items": [
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Generic_102",
-        "name": "X'Fal's Corroded Signet"
-      }
-    ]
-  },
-  {
-    "id": "80073",
-    "post_title": "Flay Barbarian Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/flay-barbarian-guide",
-    "embed_id": "gpbc10wz",
-    "author": "kondyss",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718791720,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "Chest_Unique_Barb_100",
-        "name": "Rage of Harrogath"
-      }
-    ]
-  },
-  {
-    "id": "78469",
-    "post_title": "Heartseeker Rogue Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/heartseeker-rogue-specialized-guide",
-    "embed_id": "yi5n10wr",
-    "author": "dieoxide",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718831308,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
-  },
-  {
-    "id": "24242",
-    "post_title": "Rend Barbarian Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/rend-barbarian-guide",
-    "embed_id": "ii5wa0ps",
-    "author": "slothmaster",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 5, 2024",
-    "last_modified_unix": 1717622690,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Chest_Unique_Barb_100",
-        "name": "Rage of Harrogath"
-      },
-      {
-        "id": "2HSword_Unique_Generic_001",
-        "name": "The Grandfather"
-      },
-      {
-        "id": "Ring_Unique_Barb_101",
-        "name": "Ring of the Ravenous"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Boots_Unique_Generic_125",
-        "name": "Yen's Blessing"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "38393",
-    "post_title": "Meteor Sorcerer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide",
-    "embed_id": "b3div0ws",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "June 4, 2024",
-    "last_modified_unix": 1717518083,
-    "items": [
-      {
-        "id": "Helm_Unique_Sorc_100",
-        "name": "Starfall Coronet"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Generic_102",
-        "name": "X'Fal's Corroded Signet"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      }
-    ]
-  },
-  {
-    "id": "4853",
-    "post_title": "Hammer of the Ancients Barbarian Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide",
-    "embed_id": "eeau0ocn",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "May 21, 2024",
-    "last_modified_unix": 1716318753,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "Amulet_Unique_Generic_101",
-        "name": "Banished Lord's Talisman"
-      },
-      {
-        "id": "Ring_Unique_Barb_100",
-        "name": "Ring of Red Furor"
-      },
-      {
-        "id": "Ring_Unique_Barb_101",
-        "name": "Ring of the Ravenous"
-      }
-    ]
-  },
-  {
-    "id": "4890",
-    "post_title": "Twisting Blades Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide",
-    "embed_id": "t33s8025",
-    "author": "Wudijo",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 20, 2024",
-    "last_modified_unix": 1718889517,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "79624",
-    "post_title": "Wind Shear Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/wind-shear-druid-guide",
-    "embed_id": "3xr0g0wk",
-    "author": "boiler",
-    "classes": ["d4-druid"],
-    "last_modified": "June 20, 2024",
-    "last_modified_unix": 1718926297,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
-      },
-      {
-        "id": "Boots_Unique_Druid_100",
-        "name": "Wildheart Hunger"
-      }
-    ]
-  },
-  {
-    "id": "64392",
-    "post_title": "Upheaval Barbarian Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/upheaval-barbarian-guide",
-    "embed_id": "jv4q40xe",
-    "author": "slothmaster",
-    "classes": ["d4-barbarian"],
-    "last_modified": "May 19, 2024",
-    "last_modified_unix": 1716161270,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "2HMace_Unique_Barb_001",
-        "name": "Hellhammer"
-      },
-      {
-        "id": "2HSword_Unique_Generic_001",
-        "name": "The Grandfather"
-      },
-      {
-        "id": "Boots_Unique_Generic_125",
-        "name": "Yen's Blessing"
-      }
-    ]
-  },
-  {
-    "id": "39678",
-    "post_title": "Infinimist Necromancer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide",
-    "embed_id": "wjxf0xvs",
-    "author": "MacroBioBoi",
-    "classes": ["d4-necromancer"],
-    "last_modified": "May 24, 2024",
-    "last_modified_unix": 1716569834,
-    "items": [
-      {
-        "id": "Gloves_Unique_Necro_100",
-        "name": "Howl from Below"
-      },
-      {
-        "id": "1HScythe_Unique_Necro_100",
-        "name": "Black River"
-      },
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
-      },
-      {
-        "id": "Ring_Unique_Generic_102",
-        "name": "X'Fal's Corroded Signet"
-      }
-    ]
-  },
-  {
-    "id": "40181",
-    "post_title": "Blight Necromancer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/blight-necromancer-guide",
-    "embed_id": "xirr0xlg",
-    "author": "MacroBioBoi",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718833005,
-    "items": [
-      {
-        "id": "1HScythe_Unique_Necro_100",
-        "name": "Black River"
-      },
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
-      },
-      {
-        "id": "Amulet_Unique_Necro_101",
-        "name": "Ebonpiercer"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
-  },
-  {
-    "id": "65336",
-    "post_title": "Boulder Druid Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/boulder-druid-guide",
-    "embed_id": "pud320wn",
-    "author": "moxsy",
-    "classes": ["d4-druid"],
-    "last_modified": "June 13, 2024",
-    "last_modified_unix": 1718257436,
-    "items": [
-      {
-        "id": "Amulet_Unique_Druid_100",
-        "name": "Dolmen Stone"
-      },
-      {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      }
-    ]
-  },
-  {
-    "id": "80029",
-    "post_title": "Andariels Puncture Rogue Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/andariels-puncture-rogue",
-    "embed_id": "2053d04j",
-    "author": "dieoxide",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 21, 2024",
-    "last_modified_unix": 1718954399,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_001",
-        "name": "Andariel's Visage"
-      }
-    ]
-  },
-  {
-    "id": "76938",
-    "post_title": "Grenade Rogue Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/grenade-rogue-guide",
-    "embed_id": "gvhj094l",
-    "author": "Wudijo",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 21, 2024",
-    "last_modified_unix": 1718954412,
-    "items": []
-  },
-  {
-    "id": "42909",
-    "post_title": "Support Druid Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/support-druid-guide",
-    "embed_id": "9mcfa0wx",
-    "author": "boiler",
-    "classes": ["d4-druid"],
-    "last_modified": "June 16, 2024",
-    "last_modified_unix": 1718573584,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "1HMace_Unique_Druid_001",
-        "name": "Fleshrender"
-      },
-      {
-        "id": "Boots_Unique_Generic_002",
-        "name": "Flickerstep"
-      },
-      {
-        "id": "Ring_Unique_Druid_100",
-        "name": "Airidah's Inexorable Will"
-      }
-    ]
-  },
-  {
-    "id": "17769",
-    "post_title": "Pulverize Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide",
-    "embed_id": "33ve0w53",
-    "author": "boiler",
-    "classes": ["d4-druid"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718829424,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Boots_Unique_Druid_100",
-        "name": "Wildheart Hunger"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Chest_Unique_Druid_003",
-        "name": "Insatiable Fury"
-      }
-    ]
-  },
-  {
     "id": "18630",
-    "post_title": "Shred Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/shred-druid-guide",
-    "embed_id": "xxg503ul",
-    "author": "McFluffin",
-    "classes": ["d4-druid"],
-    "last_modified": "May 26, 2024",
-    "last_modified_unix": 1716734516,
     "items": [
       {
         "id": "Chest_Unique_Druid_002",
         "name": "Mad Wolf's Glee"
       },
       {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      },
+      {
+        "id": "Ring_Unique_Druid_003",
+        "name": "Hunter's Zenith"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
       },
       {
         "id": "1HAxe_Unique_Druid_100",
         "name": "Waxing Gibbous"
       },
       {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
+        "id": "Ring_Unique_Druid_100",
+        "name": "Airidah's Inexorable Will"
       }
-    ]
-  },
-  {
-    "id": "18962",
-    "post_title": "Werewolf Tornado Druid Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/tornado-druid-guide",
-    "embed_id": "g54iz0wt",
+    ],
+    "post_title": "Shred Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/shred-druid-guide",
+    "embed_id": "leehw0z7",
     "author": "boiler",
     "classes": ["d4-druid"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718755511,
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729342675
+  },
+  {
+    "id": "38393",
     "items": [
       {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
+        "id": "Helm_Unique_Sorc_100",
+        "name": "Starfall Coronet"
       },
       {
-        "id": "Boots_Unique_Druid_100",
-        "name": "Wildheart Hunger"
-      },
-      {
-        "id": "Ring_Unique_Druid_003",
-        "name": "Hunter's Zenith"
-      },
-      {
-        "id": "Chest_Unique_Druid_002",
-        "name": "Mad Wolf's Glee"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
       },
       {
         "id": "Chest_Unique_Generic_127",
         "name": "Tyrael's Might"
-      }
-    ]
-  },
-  {
-    "id": "19335",
-    "post_title": "Bone Spirit Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide",
-    "embed_id": "o912j08x",
-    "author": "MacroBioBoi",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 15, 2024",
-    "last_modified_unix": 1718489380,
-    "items": [
-      {
-        "id": "Pants_Unique_Necro_100",
-        "name": "Blood Moon Breeches"
       },
       {
-        "id": "Amulet_Unique_Generic_101",
-        "name": "Banished Lord's Talisman"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      }
-    ]
-  },
-  {
-    "id": "33386",
-    "post_title": "Stormclaw Druid Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/stormclaw-druid-guide",
-    "embed_id": "72200ndr",
-    "author": "McFluffin",
-    "classes": ["d4-druid"],
-    "last_modified": "May 25, 2024",
-    "last_modified_unix": 1716642123,
-    "items": [
-      {
-        "id": "2HStaff_Unique_Druid_001",
-        "name": "Greatstaff of the Crone"
-      },
-      {
-        "id": "Gloves_Unique_Generic_004",
-        "name": "Paingorger's Gauntlets"
-      },
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Chest_Unique_Druid_002",
-        "name": "Mad Wolf's Glee"
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
       },
       {
         "id": "Boots_Unique_Generic_002",
         "name": "Flickerstep"
       }
-    ]
-  },
-  {
-    "id": "45049",
-    "post_title": "Thorns Barbarian Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/thorns-barbarian-guide",
-    "embed_id": "vreg0o6v",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 19, 2024",
-    "last_modified_unix": 1718790718,
-    "items": [
-      {
-        "id": "Chest_Unique_Generic_100",
-        "name": "Razorplate"
-      },
-      {
-        "id": "2HAxe_Unique_Barb_001",
-        "name": "Ancients' Oath"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Amulet_Unique_Barb_100",
-        "name": "Battle Trance"
-      },
-      {
-        "id": "Gloves_Unique_Generic_004",
-        "name": "Paingorger's Gauntlets"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "1HSword_Unique_Generic_001",
-        "name": "Doombringer"
-      }
-    ]
-  },
-  {
-    "id": "20343",
-    "post_title": "Whirlwind Twisters Barbarian Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide",
-    "embed_id": "kdav0omt",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 20, 2024",
-    "last_modified_unix": 1718907884,
-    "items": [
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Chest_Unique_Barb_100",
-        "name": "Rage of Harrogath"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Chest_Unique_Generic_127",
-        "name": "Tyrael's Might"
-      },
-      {
-        "id": "2HSword_Unique_Generic_001",
-        "name": "The Grandfather"
-      }
-    ]
-  },
-  {
-    "id": "20535",
-    "post_title": "Arc Lash Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/arc-lash-sorcerer-guide",
-    "embed_id": "aq2v00wp",
+    ],
+    "post_title": "Meteor Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/meteor-sorcerer-guide",
+    "embed_id": "lfj4x0zo",
     "author": "Northwar",
     "classes": ["d4-sorcerer"],
-    "last_modified": "June 13, 2024",
-    "last_modified_unix": 1718290227,
-    "items": [
-      {
-        "id": "Chest_Unique_Sorc_002",
-        "name": "Raiment of the Infinite"
-      },
-      {
-        "id": "Gloves_Unique_Generic_004",
-        "name": "Paingorger's Gauntlets"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729331363
   },
   {
-    "id": "21638",
-    "post_title": "Bone Spear Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide",
-    "embed_id": "nz88n0pi",
-    "author": "Chronikz",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 18, 2024",
-    "last_modified_unix": 1718713677,
+    "id": "4890",
     "items": [
       {
-        "id": "1HShield_Unique_Necro_100",
-        "name": "Lidless Wall"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
+        "id": "1HDagger_Unique_Rogue_001",
+        "name": "Condemnation"
       },
       {
         "id": "Helm_Unique_Generic_002",
         "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
       },
       {
         "id": "Ring_Unique_Generic_101",
         "name": "Ring of Starless Skies"
       }
-    ]
-  },
-  {
-    "id": "32820",
-    "post_title": "Barrage Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide",
-    "embed_id": "kk48002k",
-    "author": "dieoxide",
+    ],
+    "post_title": "Twisting Blades Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/twisting-blades-rogue-guide",
+    "embed_id": "yiibp0kp",
+    "author": "m1py",
     "classes": ["d4-rogue"],
-    "last_modified": "June 21, 2024",
-    "last_modified_unix": 1719002290,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
-  },
-  {
-    "id": "43908",
-    "post_title": "Chain Lightning Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide",
-    "embed_id": "yu4up0w5",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "May 28, 2024",
-    "last_modified_unix": 1716917249,
-    "items": [
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Amulet_Unique_Sorc_100",
-        "name": "Esadora's Overflowing Cameo"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "22693",
-    "post_title": "Ice Shards Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide",
-    "embed_id": "dr5j0wu1",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "May 21, 2024",
-    "last_modified_unix": 1716308334,
-    "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Boots_Unique_Sorc_100",
-        "name": "Esu's Heirloom"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      },
-      {
-        "id": "Pants_Unique_Sorc_100",
-        "name": "Iceheart Brais"
-      }
-    ]
-  },
-  {
-    "id": "24101",
-    "post_title": "Death Trap Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide",
-    "embed_id": "ec9j00xg",
-    "author": "Wudijo",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 18, 2024",
-    "last_modified_unix": 1718748454,
-    "items": [
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "47283",
-    "post_title": "Rapid Fire Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide",
-    "embed_id": "3q2ma0p0",
-    "author": "dieoxide",
-    "classes": ["d4-rogue"],
-    "last_modified": "June 21, 2024",
-    "last_modified_unix": 1719004582,
-    "items": [
-      {
-        "id": "Ring_Unique_Rogue_101",
-        "name": "Scoundrel's Kiss"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "40790",
-    "post_title": "Lightning Storm Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide",
-    "embed_id": "fp5ly0wn",
-    "author": "boiler",
-    "classes": ["d4-druid"],
-    "last_modified": "June 22, 2024",
-    "last_modified_unix": 1719018923,
-    "items": [
-      {
-        "id": "Helm_Unique_Druid_100",
-        "name": "Tempest Roar"
-      },
-      {
-        "id": "Chest_Unique_Druid_002",
-        "name": "Mad Wolf's Glee"
-      },
-      {
-        "id": "Gloves_Unique_Druid_100",
-        "name": "Unsung Ascetic's Wraps"
-      },
-      {
-        "id": "Boots_Unique_Druid_100",
-        "name": "Wildheart Hunger"
-      },
-      {
-        "id": "Ring_Unique_Druid_003",
-        "name": "Hunter's Zenith"
-      }
-    ]
-  },
-  {
-    "id": "37803",
-    "post_title": "Blizzard Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide",
-    "embed_id": "5ipm0wiv",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "May 29, 2024",
-    "last_modified_unix": 1716982246,
-    "items": [
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      },
-      {
-        "id": "Pants_Unique_Sorc_100",
-        "name": "Iceheart Brais"
-      }
-    ]
-  },
-  {
-    "id": "31694",
-    "post_title": "Sever Necromancer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide",
-    "embed_id": "f72906b7",
-    "author": "MacroBioBoi",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 6, 2024",
-    "last_modified_unix": 1717712836,
-    "items": [
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "56061",
-    "post_title": "Double Swing Twisters Barbarian Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide",
-    "embed_id": "r61bp0om",
-    "author": "snail",
-    "classes": ["d4-barbarian"],
-    "last_modified": "June 14, 2024",
-    "last_modified_unix": 1718383620,
-    "items": [
-      {
-        "id": "Helm_Unique_Barb_100",
-        "name": "Tuskhelm of Joritz the Mighty"
-      },
-      {
-        "id": "1HSword_Unique_Barb_101",
-        "name": "Ramaladni's Magnum Opus"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Boots_Unique_Generic_125",
-        "name": "Yen's Blessing"
-      }
-    ]
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728312626
   },
   {
     "id": "56397",
-    "post_title": "Frozen Orb Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide",
-    "embed_id": "ubaoz02q",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "June 13, 2024",
-    "last_modified_unix": 1718288960,
     "items": [
-      {
-        "id": "Helm_Unique_Generic_003",
-        "name": "Godslayer Crown"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
       {
         "id": "Boots_Unique_Sorc_100",
         "name": "Esu's Heirloom"
@@ -1093,312 +119,2400 @@
         "name": "Fractured Winterglass"
       },
       {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
-  },
-  {
-    "id": "4749",
-    "post_title": "Penetrating Shot Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide",
-    "embed_id": "hv5a902j",
-    "author": "m1py",
-    "classes": ["d4-rogue"],
-    "last_modified": "May 18, 2024",
-    "last_modified_unix": 1716008291,
-    "items": [
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
       {
         "id": "Ring_Unique_Generic_101",
         "name": "Ring of Starless Skies"
       },
       {
-        "id": "Boots_Unique_Rogue_100",
-        "name": "Beastfall Boots"
-      }
-    ]
-  },
-  {
-    "id": "5471",
-    "post_title": "Flurry Rogue Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide",
-    "embed_id": "pgcit02w",
-    "author": "dieoxide",
-    "classes": ["d4-rogue"],
-    "last_modified": "May 15, 2024",
-    "last_modified_unix": 1715793036,
-    "items": [
-      {
         "id": "Helm_Unique_Generic_002",
         "name": "Harlequin Crest"
       },
       {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
-  },
-  {
-    "id": "23918",
-    "post_title": "Firewall Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide",
-    "embed_id": "1x4n00wq",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "May 10, 2024",
-    "last_modified_unix": 1715299941,
-    "items": [
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      },
       {
         "id": "Chest_Unique_Sorc_002",
         "name": "Raiment of the Infinite"
       },
-      {
-        "id": "Ring_Unique_Generic_102",
-        "name": "X'Fal's Corroded Signet"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      }
-    ]
-  },
-  {
-    "id": "32589",
-    "post_title": "Trampleslide Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide",
-    "embed_id": "2v6yy0wm",
-    "author": "moxsy",
-    "classes": ["d4-druid"],
-    "last_modified": "May 16, 2024",
-    "last_modified_unix": 1715888021,
-    "items": [
       {
         "id": "Helm_Unique_Generic_003",
         "name": "Godslayer Crown"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Druid_101",
-        "name": "Earthbreaker"
       }
-    ]
+    ],
+    "post_title": "Frozen Orb Sorcerer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide",
+    "embed_id": "znbfb0si",
+    "author": "pandaglassjaw",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 13, 2024",
+    "last_modified_unix": 1728824357
   },
   {
-    "id": "40629",
-    "post_title": "Ball Lightning Sorcerer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide",
-    "embed_id": "f5awh02y",
-    "author": "Northwar",
-    "classes": ["d4-sorcerer"],
-    "last_modified": "May 16, 2024",
-    "last_modified_unix": 1715858249,
+    "id": "45049",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Chest_Unique_Generic_100",
+        "name": "Razorplate"
+      },
+      {
+        "id": "2HAxe_Unique_Barb_001",
+        "name": "Ancients' Oath"
+      },
+      {
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "name": "Shard of Verathiel"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Thorns Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/thorns-barbarian-guide",
+    "embed_id": "ji1a80ks",
+    "author": "beatdropper",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728362027
+  },
+  {
+    "id": "20535",
     "items": [
       {
         "id": "Chest_Unique_Sorc_002",
         "name": "Raiment of the Infinite"
       },
       {
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "name": "Shard of Verathiel"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
         "id": "Ring_Unique_Sorc_101",
         "name": "Tal Rasha's Iridescent Loop"
       },
       {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
       },
       {
         "id": "Ring_Unique_Generic_101",
         "name": "Ring of Starless Skies"
       },
       {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
       }
-    ]
-  },
-  {
-    "id": "57436",
-    "post_title": "Fireball Sorcerer Endgame Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide",
-    "embed_id": "rqdgm02y",
-    "author": "Northwar",
+    ],
+    "post_title": "Arc Lash Sorcerer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/arc-lash-sorcerer-guide",
+    "embed_id": "puqd408o",
+    "author": "pandaglassjaw",
     "classes": ["d4-sorcerer"],
-    "last_modified": "May 10, 2024",
-    "last_modified_unix": 1715299901,
-    "items": [
-      {
-        "id": "Gloves_Unique_Sorc_002",
-        "name": "Gloves of the Illuminator"
-      },
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Ring_Unique_Sorc_101",
-        "name": "Tal Rasha's Iridescent Loop"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      }
-    ]
+    "last_modified": "October 10, 2024",
+    "last_modified_unix": 1728552394
   },
   {
-    "id": "58811",
-    "post_title": "Blood Surge Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide",
-    "embed_id": "1z2in021",
-    "author": "Chronikz",
-    "classes": ["d4-necromancer"],
-    "last_modified": "May 14, 2024",
-    "last_modified_unix": 1715655677,
+    "id": "65336",
     "items": [
       {
-        "id": "Pants_Unique_Necro_100",
-        "name": "Blood Moon Breeches"
+        "id": "Ring_Unique_Druid_102",
+        "name": "Mjölnic Ryng"
       },
       {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
+        "id": "Amulet_Unique_Druid_100",
+        "name": "Dolmen Stone"
       },
       {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      },
-      {
-        "id": "1HShield_Unique_Necro_100",
-        "name": "Lidless Wall"
-      }
-    ]
-  },
-  {
-    "id": "51020",
-    "post_title": "Blood Lance Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-guide",
-    "embed_id": "gx42j0w1",
-    "author": "Chronikz",
-    "classes": ["d4-necromancer"],
-    "last_modified": "May 14, 2024",
-    "last_modified_unix": 1715655745,
-    "items": [
-      {
-        "id": "Pants_Unique_Necro_100",
-        "name": "Blood Moon Breeches"
-      },
-      {
-        "id": "Ring_Unique_Necro_101",
-        "name": "Ring of the Sacrilegious Soul"
-      },
-      {
-        "id": "Helm_Unique_Generic_002",
-        "name": "Harlequin Crest"
-      },
-      {
-        "id": "Ring_Unique_Generic_101",
-        "name": "Ring of Starless Skies"
-      },
-      {
-        "id": "1HShield_Unique_Necro_100",
-        "name": "Lidless Wall"
-      }
-    ]
-  },
-  {
-    "id": "74412",
-    "post_title": "One Shot Rogue Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/one-shot-rogue-guide",
-    "embed_id": "4bds9023",
-    "author": "m1py",
-    "classes": ["d4-rogue"],
-    "last_modified": "May 17, 2024",
-    "last_modified_unix": 1715912848,
-    "items": [
-      {
-        "id": "Pants_Unique_Generic_102",
-        "name": "Tibault's Will"
-      },
-      {
-        "id": "Boots_Unique_Rogue_100",
-        "name": "Beastfall Boots"
-      },
-      {
-        "id": "Ring_Unique_Rogue_101",
-        "name": "Scoundrel's Kiss"
-      },
-      {
-        "id": "Amulet_Unique_Generic_101",
-        "name": "Banished Lord's Talisman"
-      }
-    ]
-  },
-  {
-    "id": "76435",
-    "post_title": "Shadow Step Rogue Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/shadow-step-rogue-guide",
-    "embed_id": "gup40p5r",
-    "author": "m1py",
-    "classes": ["d4-rogue"],
-    "last_modified": "May 17, 2024",
-    "last_modified_unix": 1715912782,
-    "items": []
-  },
-  {
-    "id": "76513",
-    "post_title": "Companion Druid Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/companion-druid-guide",
-    "embed_id": "12a9d0wx",
-    "author": "moxsy",
-    "classes": ["d4-druid"],
-    "last_modified": "May 16, 2024",
-    "last_modified_unix": 1715888065,
-    "items": [
-      {
-        "id": "Pants_Unique_Druid_001",
-        "name": "Storm's Companion"
-      },
-      {
-        "id": "Ring_Unique_Generic_102",
-        "name": "X'Fal's Corroded Signet"
+        "id": "Helm_Unique_Druid_101",
+        "name": "Vasily's Prayer"
       },
       {
         "id": "Boots_Unique_Druid_100",
         "name": "Wildheart Hunger"
       },
       {
-        "id": "Chest_Unique_Druid_002",
-        "name": "Mad Wolf's Glee"
+        "id": "Ring_Unique_Druid_003",
+        "name": "Hunter's Zenith"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
       }
-    ]
+    ],
+    "post_title": "Boulder Druid Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/boulder-druid-guide",
+    "embed_id": "nal430s1",
+    "author": "thomasdatrain",
+    "classes": ["d4-druid"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729448431
   },
   {
-    "id": "77539",
-    "post_title": "Minion Necromancer Endgame Build Guide",
-    "permalink": "https://maxroll.gg/d4/build-guides/minion-necromancer-guide",
-    "embed_id": "cm6pf0xa",
-    "author": "Chronikz",
-    "classes": ["d4-necromancer"],
-    "last_modified": "June 5, 2024",
-    "last_modified_unix": 1717592721,
+    "id": "94443",
     "items": [
+      {
+        "id": "1HDagger_Unique_Rogue_002",
+        "name": "Asheara's Khanjar"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      }
+    ],
+    "post_title": "Dance of Knives Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/dance-of-knives-rogue-guide",
+    "embed_id": "rp4nr0h8",
+    "author": "m1py",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729321595
+  },
+  {
+    "id": "19335",
+    "items": [
+      {
+        "id": "Pants_Unique_Necro_100",
+        "name": "Blood Moon Breeches"
+      },
+      {
+        "id": "Boots_Unique_Necro_101",
+        "name": "Path of Trag'Oul"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      }
+    ],
+    "post_title": "Bone Spirit Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide",
+    "embed_id": "xb8140z5",
+    "author": "MacroBioBoi",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729437163
+  },
+  {
+    "id": "24242",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Chest_Unique_Barb_100",
+        "name": "Rage of Harrogath"
+      },
+      {
+        "id": "1HSword_Unique_Barb_101",
+        "name": "Ramaladni's Magnum Opus"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "Ring_Unique_Barb_101",
+        "name": "Ring of the Ravenous"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Rend Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/rend-barbarian-guide",
+    "embed_id": "vd2yd0zp",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 12, 2024",
+    "last_modified_unix": 1728732805
+  },
+  {
+    "id": "23918",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Firewall Sorcerer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/firewall-sorcerer-guide",
+    "embed_id": "ooqnk0s0",
+    "author": "pandaglassjaw",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 6, 2024",
+    "last_modified_unix": 1728185709
+  },
+  {
+    "id": "76938",
+    "items": [
+      {
+        "id": "x1_Ring_Unique_Rogue_128",
+        "name": "Pitfighter's Gull"
+      },
+      {
+        "id": "Ring_Unique_Rogue_102",
+        "name": "Saboteur's Signet"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      }
+    ],
+    "post_title": "Grenade Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/grenade-rogue-guide",
+    "embed_id": "0xlk0x2m",
+    "author": "deezythemonster",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728359771
+  },
+  {
+    "id": "20343",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Chest_Unique_Barb_100",
+        "name": "Rage of Harrogath"
+      },
+      {
+        "id": "1HSword_Unique_Barb_101",
+        "name": "Ramaladni's Magnum Opus"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
       {
         "id": "Helm_Unique_Generic_002",
         "name": "Harlequin Crest"
       }
-    ]
+    ],
+    "post_title": "Whirlwind Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide",
+    "embed_id": "wc2w20z1",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729383017
+  },
+  {
+    "id": "22693",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Boots_Unique_Sorc_100",
+        "name": "Esu's Heirloom"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      },
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      }
+    ],
+    "post_title": "Ice Shards Sorcerer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/ice-shards-sorcerer-guide",
+    "embed_id": "1tq9m086",
+    "author": "pandaglassjaw",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 6, 2024",
+    "last_modified_unix": 1728185647
+  },
+  {
+    "id": "77539",
+    "items": [
+      {
+        "id": "Ring_Unique_Necro_100",
+        "name": "Ring of Mendeln"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "2HSword_Unique_Generic_001",
+        "name": "The Grandfather"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      }
+    ],
+    "post_title": "Minion Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/minion-necromancer-guide",
+    "embed_id": "objz0wh6",
+    "author": "Chronikz",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729156541
+  },
+  {
+    "id": "80029",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_001",
+        "name": "Andariel's Visage"
+      },
+      {
+        "id": "S05_BSK_1HDagger_Unique_Rogue_001",
+        "name": "The Umbracrux"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "2HBow_Unique_Rogue_001",
+        "name": "Skyhunter"
+      },
+      {
+        "id": "1HDagger_Unique_Rogue_001",
+        "name": "Condemnation"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      }
+    ],
+    "post_title": "Andariels Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/andariels-puncture-rogue",
+    "embed_id": "ekhwh0kv",
+    "author": "m1py",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728358629
+  },
+  {
+    "id": "40790",
+    "items": [
+      {
+        "id": "Helm_Unique_Druid_100",
+        "name": "Tempest Roar"
+      },
+      {
+        "id": "Gloves_Unique_Druid_100",
+        "name": "Unsung Ascetic's Wraps"
+      },
+      {
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      },
+      {
+        "id": "Ring_Unique_Druid_100",
+        "name": "Airidah's Inexorable Will"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Ring_Unique_Druid_102",
+        "name": "Mjölnic Ryng"
+      }
+    ],
+    "post_title": "Lightning Storm Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/lightning-storm-druid-guide",
+    "embed_id": "8fn70pj7",
+    "author": "Danger",
+    "classes": ["d4-druid"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729181107
+  },
+  {
+    "id": "57436",
+    "items": [
+      {
+        "id": "Gloves_Unique_Sorc_002",
+        "name": "Gloves of the Illuminator"
+      },
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "2HStaff_Unique_Sorc_002",
+        "name": "Staff of Endless Rage"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Fireball Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/fireball-sorcerer-guide",
+    "embed_id": "wggjf0k8",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729331342
+  },
+  {
+    "id": "87480",
+    "items": [
+      {
+        "id": "Helm_Unique_Spiritborn_011_x1",
+        "name": "Loyalty's Mantle"
+      },
+      {
+        "id": "Chest_Unique_Generic_100",
+        "name": "Razorplate"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_001_x1",
+        "name": "Wound Drinker"
+      }
+    ],
+    "post_title": "Rake Thorns Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/rake-spiritborn-guide",
+    "embed_id": "7cm760su",
+    "author": "luckyluciano",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728310360
+  },
+  {
+    "id": "78469",
+    "items": [
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "name": "Shard of Verathiel"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Boots_Unique_Rogue_100",
+        "name": "Beastfall Boots"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Heartseeker Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/heartseeker-rogue-specialized-guide",
+    "embed_id": "uaf6n0zo",
+    "author": "dieoxide",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729361258
+  },
+  {
+    "id": "40629",
+    "items": [
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Ball Lightning Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/ball-lightning-sorcerer-guide",
+    "embed_id": "nvfun0kn",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728270693
+  },
+  {
+    "id": "32589",
+    "items": [
+      {
+        "id": "Helm_Unique_Druid_101",
+        "name": "Vasily's Prayer"
+      },
+      {
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      },
+      {
+        "id": "Ring_Unique_Druid_101",
+        "name": "Earthbreaker"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Landslide Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/trampleslide-druid-guide",
+    "embed_id": "s0k6f08p",
+    "author": "boiler",
+    "classes": ["d4-druid"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729338339
+  },
+  {
+    "id": "5471",
+    "items": [
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "1HDagger_Unique_Rogue_002",
+        "name": "Asheara's Khanjar"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Chest_Unique_Rogue_101",
+        "name": "Shroud of Khanduras"
+      },
+      {
+        "id": "S05_BSK_1HDagger_Unique_Rogue_001",
+        "name": "The Umbracrux"
+      }
+    ],
+    "post_title": "Flurry Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/flurry-rogue-guide",
+    "embed_id": "ldlh10sc",
+    "author": "deezythemonster",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728359875
+  },
+  {
+    "id": "31694",
+    "items": [
+      {
+        "id": "S05_BSK_Helm_Unique_Generic_001",
+        "name": "Crown of Lucion"
+      },
+      {
+        "id": "Boots_Unique_Necro_100",
+        "name": "Greaves of the Empty Tomb"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Sever Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/sever-necromancer-endgame-guide",
+    "embed_id": "3d6bn0kr",
+    "author": "MacroBioBoi",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 12, 2024",
+    "last_modified_unix": 1728763175
+  },
+  {
+    "id": "24101",
+    "items": [
+      {
+        "id": "Pants_Unique_Rogue_004",
+        "name": "Eyes in the Dark"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Boots_Unique_Rogue_100",
+        "name": "Beastfall Boots"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Death Trap Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/death-trap-rogue-guide",
+    "embed_id": "tk3z60qs",
+    "author": "Wudijo",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728308368
+  },
+  {
+    "id": "78565",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Chest_Unique_Barb_100",
+        "name": "Rage of Harrogath"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "Ring_Unique_Barb_101",
+        "name": "Ring of the Ravenous"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "1HSword_Unique_Barb_101",
+        "name": "Ramaladni's Magnum Opus"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      }
+    ],
+    "post_title": "Leapquake Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/leapquake-barbarian-guide",
+    "embed_id": "4l31l0zx",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728340299
+  },
+  {
+    "id": "43908",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Pants_Unique_Sorc_101",
+        "name": "Axial Conduit"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Chain Lightning Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/chain-lightning-sorcerer-guide",
+    "embed_id": "ez9lx0ko",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729331353
+  },
+  {
+    "id": "76513",
+    "items": [
+      {
+        "id": "Pants_Unique_Druid_001",
+        "name": "Storm's Companion"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Companion Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/companion-druid-guide",
+    "embed_id": "57nyn086",
+    "author": "boiler",
+    "classes": ["d4-druid"],
+    "last_modified": "October 11, 2024",
+    "last_modified_unix": 1728672597
+  },
+  {
+    "id": "17769",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Chest_Unique_Druid_003",
+        "name": "Insatiable Fury"
+      },
+      {
+        "id": "Ring_Unique_Druid_003",
+        "name": "Hunter's Zenith"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      }
+    ],
+    "post_title": "Pulverize Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/pulverize-druid-guide",
+    "embed_id": "5dk6e08m",
+    "author": "boiler",
+    "classes": ["d4-druid"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729147793
+  },
+  {
+    "id": "64392",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "2HMace_Unique_Barb_001",
+        "name": "Hellhammer"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Upheaval Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/upheaval-barbarian-guide",
+    "embed_id": "fci5g0za",
+    "author": "beatdropper",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728362025
+  },
+  {
+    "id": "18962",
+    "items": [
+      {
+        "id": "Helm_Unique_Druid_100",
+        "name": "Tempest Roar"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      },
+      {
+        "id": "Ring_Unique_Druid_100",
+        "name": "Airidah's Inexorable Will"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Ring_Unique_Druid_102",
+        "name": "Mjölnic Ryng"
+      }
+    ],
+    "post_title": "Tornado Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/tornado-druid-guide",
+    "embed_id": "umgj30k4",
+    "author": "Danger",
+    "classes": ["d4-druid"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729181330
+  },
+  {
+    "id": "56061",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "1HSword_Unique_Barb_101",
+        "name": "Ramaladni's Magnum Opus"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      }
+    ],
+    "post_title": "Double Swing Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/double-swing-barbarian-guide",
+    "embed_id": "sv20c0ka",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728288346
+  },
+  {
+    "id": "4749",
+    "items": [
+      {
+        "id": "S05_BSK_1HDagger_Unique_Rogue_001",
+        "name": "The Umbracrux"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "1HDagger_Unique_Rogue_002",
+        "name": "Asheara's Khanjar"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "Boots_Unique_Rogue_100",
+        "name": "Beastfall Boots"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      }
+    ],
+    "post_title": "Penetrating Shot Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/penetrating-shot-rogue-guide",
+    "embed_id": "tuiu50ky",
+    "author": "m1py",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728357842
+  },
+  {
+    "id": "37803",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Boots_Unique_Sorc_100",
+        "name": "Esu's Heirloom"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Ring_Unique_Sorc_100",
+        "name": "Blue Rose"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      }
+    ],
+    "post_title": "Blizzard Sorcerer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/blizzard-sorcerer-guide",
+    "embed_id": "99g680st",
+    "author": "pandaglassjaw",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 12, 2024",
+    "last_modified_unix": 1728733411
+  },
+  {
+    "id": "87510",
+    "items": [
+      {
+        "id": "Helm_Unique_Spiritborn_009_x1",
+        "name": "Harmony of Ebewaka"
+      },
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_016_x1",
+        "name": "Rod of Kepeleke"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_006_x1",
+        "name": "Ring of the Midnight Sun"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Chest_Unique_Spiritborn_013_x1",
+        "name": "Jacinth Shell"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      }
+    ],
+    "post_title": "Quill Volley Eagle Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-guide",
+    "embed_id": "1p8k0pan",
+    "author": "Wudijo",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729460970
+  },
+  {
+    "id": "4853",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "2HAxe_Unique_Barb_001",
+        "name": "Ancients' Oath"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "2HSword_Unique_Generic_001",
+        "name": "The Grandfather"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      }
+    ],
+    "post_title": "Hammer of the Ancients Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/hammer-of-the-ancients-barbarian-guide",
+    "embed_id": "6g2sb0zd",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 18, 2024",
+    "last_modified_unix": 1729233963
+  },
+  {
+    "id": "58811",
+    "items": [
+      {
+        "id": "Gloves_Unique_Necro_101",
+        "name": "Cruor's Embrace"
+      },
+      {
+        "id": "Pants_Unique_Necro_100",
+        "name": "Blood Moon Breeches"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Blood Surge Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/blood-surge-necromancer-guide",
+    "embed_id": "1dl109qx",
+    "author": "Chronikz",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729158150
+  },
+  {
+    "id": "78208",
+    "items": [
+      {
+        "id": "Gloves_Unique_Sorc_101",
+        "name": "Flameweaver"
+      },
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      },
+      {
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "name": "Shard of Verathiel"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Fire Bolt Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/fire-bolt-sorcerer-build-guide",
+    "embed_id": "0yjew0za",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728371433
+  },
+  {
+    "id": "21638",
+    "items": [
+      {
+        "id": "Helm_Unique_Necro_100",
+        "name": "Deathless Visage"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Bone Spear Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/bone-spear-necromancer-guide",
+    "embed_id": "xlk00w7q",
+    "author": "Chronikz",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728278687
+  },
+  {
+    "id": "87897",
+    "items": [
+      {
+        "id": "Helm_Unique_Spiritborn_009_x1",
+        "name": "Harmony of Ebewaka"
+      },
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_016_x1",
+        "name": "Rod of Kepeleke"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_006_x1",
+        "name": "Ring of the Midnight Sun"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      }
+    ],
+    "post_title": "Crushing Hand Gorilla Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/crushing-hand-spiritborn-guide",
+    "embed_id": "zrbnh0k4",
+    "author": "Wudijo",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 18, 2024",
+    "last_modified_unix": 1729294743
+  },
+  {
+    "id": "89703",
+    "items": [
+      {
+        "id": "Helm_Unique_Spiritborn_009_x1",
+        "name": "Harmony of Ebewaka"
+      },
+      {
+        "id": "Chest_Unique_Spiritborn_013_x1",
+        "name": "Jacinth Shell"
+      },
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_016_x1",
+        "name": "Rod of Kepeleke"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_006_x1",
+        "name": "Ring of the Midnight Sun"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      }
+    ],
+    "post_title": "Touch of Death Centipede Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/touch-of-death-spiritborn-guide",
+    "embed_id": "pl7lv0kv",
+    "author": "Wudijo",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 18, 2024",
+    "last_modified_unix": 1729211206
+  },
+  {
+    "id": "39678",
+    "items": [
+      {
+        "id": "1HScythe_Unique_Necro_100",
+        "name": "Black River"
+      },
+      {
+        "id": "Gloves_Unique_Necro_100",
+        "name": "Howl from Below"
+      },
+      {
+        "id": "Ring_Unique_Necro_101",
+        "name": "Ring of the Sacrilegious Soul"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      }
+    ],
+    "post_title": "Infinimist Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/infinimist-necromancer-guide",
+    "embed_id": "3s7g60z1",
+    "author": "MacroBioBoi",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 6, 2024",
+    "last_modified_unix": 1728247089
+  },
+  {
+    "id": "87486",
+    "items": [
+      {
+        "id": "Helm_Unique_Spiritborn_011_x1",
+        "name": "Loyalty's Mantle"
+      },
+      {
+        "id": "Chest_Unique_Generic_100",
+        "name": "Razorplate"
+      },
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
+        "name": "Sepazontec"
+      },
+      {
+        "id": "Helm_Unique_Spiritborn_009_x1",
+        "name": "Harmony of Ebewaka"
+      }
+    ],
+    "post_title": "Rock Splitter Gorilla Thorns Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/thorns-spiritborn-build-guide",
+    "embed_id": "iovt0pdp",
+    "author": "serocifkre",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 12, 2024",
+    "last_modified_unix": 1728766000
+  },
+  {
+    "id": "81299",
+    "items": [
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Arrow Storms Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/arrow-storms-rogue-guide",
+    "embed_id": "dic150xd",
+    "author": "Wudijo",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 7, 2024",
+    "last_modified_unix": 1728332179
+  },
+  {
+    "id": "87489",
+    "items": [
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_016_x1",
+        "name": "Rod of Kepeleke"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_006_x1",
+        "name": "Ring of the Midnight Sun"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      }
+    ],
+    "post_title": "Payback Gorilla Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/payback-spiritborn-build-guide",
+    "embed_id": "xanik0si",
+    "author": "insnebob",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729466714
+  },
+  {
+    "id": "76435",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "1HDagger_Unique_Rogue_002",
+        "name": "Asheara's Khanjar"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "x1_Ring_Unique_Rogue_128",
+        "name": "Pitfighter's Gull"
+      }
+    ],
+    "post_title": "Shadow Step Rogue Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/shadow-step-rogue-guide",
+    "embed_id": "n48fa0c2",
+    "author": "m1py",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728358431
+  },
+  {
+    "id": "90999",
+    "items": [
+      {
+        "id": "Chest_Unique_Spiritborn_013_x1",
+        "name": "Jacinth Shell"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      }
+    ],
+    "post_title": "Soar Gorilla Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/soar-spiritborn-build-guide",
+    "embed_id": "q54jw0kb",
+    "author": "insnebob",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 9, 2024",
+    "last_modified_unix": 1728450214
+  },
+  {
+    "id": "51020",
+    "items": [
+      {
+        "id": "Chest_Unique_Necro_100",
+        "name": "Mutilator Plate"
+      },
+      {
+        "id": "Pants_Unique_Necro_100",
+        "name": "Blood Moon Breeches"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Blood Lance Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/blood-lance-necromancer-guide",
+    "embed_id": "kl1nx0zq",
+    "author": "lordxsaura",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 15, 2024",
+    "last_modified_unix": 1729006089
+  },
+  {
+    "id": "83736",
+    "items": [
+      {
+        "id": "Chest_Unique_Barb_100",
+        "name": "Rage of Harrogath"
+      },
+      {
+        "id": "S05_BSK_1HSword_Unique_Barbarian_001",
+        "name": "The Third Blade"
+      },
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      }
+    ],
+    "post_title": "Rupture Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/rupture-barbarian-build-guide",
+    "embed_id": "3i2z20zh",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729189671
+  },
+  {
+    "id": "91641",
+    "items": [
+      {
+        "id": "S05_BSK_1HSword_Unique_Barbarian_001",
+        "name": "The Third Blade"
+      },
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "2HSword_Unique_Generic_001",
+        "name": "The Grandfather"
+      },
+      {
+        "id": "1HSword_Unique_Barb_101",
+        "name": "Ramaladni's Magnum Opus"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      }
+    ],
+    "post_title": "Mighty Throw Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/mighty-throw-barbarian-guide",
+    "embed_id": "rn6930qz",
+    "author": "snail",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 18, 2024",
+    "last_modified_unix": 1729233909
+  },
+  {
+    "id": "88206",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Chest_Unique_Spiritborn_013_x1",
+        "name": "Jacinth Shell"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Spiritborn_006_x1",
+        "name": "Ring of the Midnight Sun"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Stinger Centipede Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/stinger-spiritborn-guide",
+    "embed_id": "ijozh08w",
+    "author": "Wudijo",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 16, 2024",
+    "last_modified_unix": 1729074504
+  },
+  {
+    "id": "78223",
+    "items": [
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "name": "Shard of Verathiel"
+      },
+      {
+        "id": "Gloves_Unique_Generic_004",
+        "name": "Paingorger's Gauntlets"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Bash Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/bash-barbarian-guide",
+    "embed_id": "9ggsu0zb",
+    "author": "beatdropper",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728362007
+  },
+  {
+    "id": "47283",
+    "items": [
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "2HBow_Unique_Rogue_001",
+        "name": "Skyhunter"
+      },
+      {
+        "id": "1HDagger_Unique_Rogue_001",
+        "name": "Condemnation"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Rogue_101",
+        "name": "Scoundrel's Kiss"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Rapid Fire Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/rapid-fire-rogue-guide",
+    "embed_id": "ykemo0kq",
+    "author": "dieoxide",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729428885
+  },
+  {
+    "id": "76569",
+    "items": [
+      {
+        "id": "Helm_Unique_Druid_100",
+        "name": "Tempest Roar"
+      },
+      {
+        "id": "Chest_Unique_Druid_003",
+        "name": "Insatiable Fury"
+      },
+      {
+        "id": "Ring_Unique_Druid_102",
+        "name": "Mjölnic Ryng"
+      },
+      {
+        "id": "Ring_Unique_Druid_100",
+        "name": "Airidah's Inexorable Will"
+      }
+    ],
+    "post_title": "Hurricane Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/hurricane-druid-guide",
+    "embed_id": "ub7f10zy",
+    "author": "Danger",
+    "classes": ["d4-druid"],
+    "last_modified": "October 16, 2024",
+    "last_modified_unix": 1729039815
+  },
+  {
+    "id": "32820",
+    "items": [
+      {
+        "id": "Helm_Unique_Rogue_001",
+        "name": "Cowl of the Nameless"
+      },
+      {
+        "id": "S05_BSK_1HDagger_Unique_Rogue_001",
+        "name": "The Umbracrux"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Barrage Rogue Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/barrage-rogue-guide",
+    "embed_id": "nbfwv0kt",
+    "author": "dieoxide",
+    "classes": ["d4-rogue"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729361400
+  },
+  {
+    "id": "78936",
+    "items": [
+      {
+        "id": "S05_BSK_1HSword_Unique_Barbarian_001",
+        "name": "The Third Blade"
+      },
+      {
+        "id": "Helm_Unique_Barb_101_x1",
+        "name": "Ugly Bastard Helm"
+      },
+      {
+        "id": "2HMace_Unique_Barb_100",
+        "name": "Overkill"
+      },
+      {
+        "id": "Pants_Unique_Barb_100",
+        "name": "Arreat's Bearing"
+      },
+      {
+        "id": "Boots_Unique_Generic_125",
+        "name": "Yen's Blessing"
+      },
+      {
+        "id": "Ring_Unique_Barb_100",
+        "name": "Ring of Red Furor"
+      },
+      {
+        "id": "Amulet_Unique_Generic_101",
+        "name": "Banished Lord's Talisman"
+      },
+      {
+        "id": "S05_BSK_Helm_Unique_Generic_001",
+        "name": "Crown of Lucion"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Death Blow Barbarian Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/kick-death-blow-guide",
+    "embed_id": "pye4e0kj",
+    "author": "beatdropper",
+    "classes": ["d4-barbarian"],
+    "last_modified": "October 8, 2024",
+    "last_modified_unix": 1728362019
+  },
+  {
+    "id": "96612",
+    "items": [
+      {
+        "id": "Helm_Unique_Necro_101_x1",
+        "name": "The Unmaker"
+      },
+      {
+        "id": "Pants_Unique_Necro_100",
+        "name": "Blood Moon Breeches"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "1HSword_Unique_Generic_001",
+        "name": "Doombringer"
+      }
+    ],
+    "post_title": "Soulrift Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/soulrift-necromancer-guide",
+    "embed_id": "kc8z10k9",
+    "author": "MacroBioBoi",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 11, 2024",
+    "last_modified_unix": 1728675154
+  },
+  {
+    "id": "89412",
+    "items": [
+      {
+        "id": "Helm_Unique_Druid_101",
+        "name": "Vasily's Prayer"
+      },
+      {
+        "id": "Totem_Unique_Druid_101_x1",
+        "name": "Stone of Vehemen"
+      },
+      {
+        "id": "Boots_Unique_Druid_100",
+        "name": "Wildheart Hunger"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      }
+    ],
+    "post_title": "Stone Burst Druid Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/stone-burst-druid-build-guide",
+    "embed_id": "v9cnw0sj",
+    "author": "thomasdatrain",
+    "classes": ["d4-druid"],
+    "last_modified": "October 17, 2024",
+    "last_modified_unix": 1729172423
+  },
+  {
+    "id": "101298",
+    "items": [
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
+        "name": "Sepazontec"
+      },
+      {
+        "id": "Helm_Unique_Spiritborn_011_x1",
+        "name": "Loyalty's Mantle"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Gloves_Unique_Generic_002",
+        "name": "Fists of Fate"
+      }
+    ],
+    "post_title": "Evade Eagle Spiritborn Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/evade-spiritborn-build-guide",
+    "embed_id": "vlm4p0zz",
+    "author": "insnebob",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729466972
+  },
+  {
+    "id": "97554",
+    "items": [
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      },
+      {
+        "id": "Gloves_Unique_Sorc_101",
+        "name": "Flameweaver"
+      },
+      {
+        "id": "Boots_Unique_Sorc_100",
+        "name": "Esu's Heirloom"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Elemental Constellation Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/elemental-constellation-sorcerer-guide",
+    "embed_id": "b9bcu0zp",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 19, 2024",
+    "last_modified_unix": 1729331308
+  },
+  {
+    "id": "40181",
+    "items": [
+      {
+        "id": "Amulet_Unique_Necro_101",
+        "name": "Ebonpiercer"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      }
+    ],
+    "post_title": "Blight Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/blight-necromancer-guide",
+    "embed_id": "cr5kh0kk",
+    "author": "MacroBioBoi",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 6, 2024",
+    "last_modified_unix": 1728247083
+  },
+  {
+    "id": "82024",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_003",
+        "name": "Godslayer Crown"
+      },
+      {
+        "id": "Boots_Unique_Sorc_100",
+        "name": "Esu's Heirloom"
+      },
+      {
+        "id": "Ring_Unique_Sorc_101",
+        "name": "Tal Rasha's Iridescent Loop"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      },
+      {
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "name": "Rakanoth's Wake"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Chest_Unique_Sorc_002",
+        "name": "Raiment of the Infinite"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Pants_Unique_Generic_102",
+        "name": "Tibault's Will"
+      },
+      {
+        "id": "Boots_Unique_Generic_002",
+        "name": "Flickerstep"
+      }
+    ],
+    "post_title": "Lightning Spear Sorcerer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/lightning-spear-sorcerer-guide",
+    "embed_id": "iy9j80ky",
+    "author": "Northwar",
+    "classes": ["d4-sorcerer"],
+    "last_modified": "October 11, 2024",
+    "last_modified_unix": 1728672105
+  },
+  {
+    "id": "95520",
+    "items": [
+      {
+        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
+        "name": "Sepazontec"
+      },
+      {
+        "id": "Helm_Unique_Spiritborn_009_x1",
+        "name": "Harmony of Ebewaka"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Chest_Unique_Spiritborn_013_x1",
+        "name": "Jacinth Shell"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      }
+    ],
+    "post_title": "Thrash Jaguar Spiritborn Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/thrash-spiritborn-guide",
+    "embed_id": "r6jmu087",
+    "author": "deezythemonster",
+    "classes": ["d4-spiritborn"],
+    "last_modified": "October 18, 2024",
+    "last_modified_unix": 1729284154
+  },
+  {
+    "id": "93648",
+    "items": [
+      {
+        "id": "Pants_Unique_Necro_100",
+        "name": "Blood Moon Breeches"
+      },
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Generic_103",
+        "name": "Shroud of False Death"
+      },
+      {
+        "id": "Chest_Unique_Generic_127",
+        "name": "Tyrael's Might"
+      }
+    ],
+    "post_title": "Blood Wave Necromancer Endgame Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/blood-wave-necromancer-guide",
+    "embed_id": "cn2ah0kv",
+    "author": "lordxsaura",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 16, 2024",
+    "last_modified_unix": 1729093684
+  },
+  {
+    "id": "93741",
+    "items": [
+      {
+        "id": "Helm_Unique_Generic_002",
+        "name": "Harlequin Crest"
+      },
+      {
+        "id": "Chest_Unique_Necro_101",
+        "name": "Blood Artisan's Cuirass"
+      },
+      {
+        "id": "Ring_Unique_Generic_101",
+        "name": "Ring of Starless Skies"
+      },
+      {
+        "id": "Helm_Unique_Generic_004",
+        "name": "Heir of Perdition"
+      }
+    ],
+    "post_title": "Spirit Wave Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/spirit-wave-necromancer-guide",
+    "embed_id": "uefb0k6e",
+    "author": "serocifkre",
+    "classes": ["d4-necromancer"],
+    "last_modified": "October 20, 2024",
+    "last_modified_unix": 1729393980
   }
 ]
