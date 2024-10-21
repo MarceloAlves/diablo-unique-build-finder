@@ -24,13 +24,14 @@ function App() {
 
   return (
     <div className="container">
-      <div className="grid grid-cols-[repeat(auto-fit,minmax(75px,_1fr))] gap-4">
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(90px,_1fr))] gap-4">
         {uniques.map((item) => (
           <div
             key={item.id}
             className={cn(
-              "flex max-w-20 flex-col flex-wrap justify-center rounded-md border-2 border-gray-800 p-1 text-xs text-gray-200",
+              "flex flex-col flex-wrap justify-center rounded-md border-2 border-gray-800 p-1 text-xs text-gray-200",
               {
+                "border-violet-300": item.is_mythic,
                 "bg-indigo-600": selectedUnique.includes(item.id),
                 "bg-slate-950": !selectedUnique.includes(item.id),
               },
