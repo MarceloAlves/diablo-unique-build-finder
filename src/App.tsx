@@ -5,22 +5,35 @@ import { PlannerCard } from "./components/PlannerCard";
 import { cn } from "./lib/utils";
 
 function App() {
-  const [selectedUnique, setSelectedUnique] = useState<string[]>([]);
+  const [selectedUniques, setSelectedUniques] = useState<string[]>([]);
 
   const filteredData = useMemo(() => {
-    if (!selectedUnique) return data;
-    return data.filter((planner) =>
-      planner.items.some((item) => selectedUnique.includes(item.id)),
-    );
-  }, [selectedUnique]);
+    if (selectedUniques.length === 0) return null;
+
+    return data
+      .filter((planner) =>
+        planner.items.some((item) => selectedUniques.includes(item.id)),
+      )
+      .reduce(
+        (acc, cur) => {
+          return {
+            ...acc,
+            [cur.class]: [...(acc[cur.class] || []), cur],
+          };
+        },
+        {} as Record<string, typeof data>,
+      );
+  }, [selectedUniques]);
 
   const handleSelection = (id: string) => {
-    if (selectedUnique.includes(id)) {
-      setSelectedUnique(selectedUnique.filter((item) => item !== id));
+    if (selectedUniques.includes(id)) {
+      setSelectedUniques(selectedUniques.filter((item) => item !== id));
     } else {
-      setSelectedUnique((prev) => [...prev, id]);
+      setSelectedUniques((prev) => [...prev, id]);
     }
   };
+
+  console.log(filteredData);
 
   return (
     <div className="container">
@@ -32,8 +45,8 @@ function App() {
               "flex flex-col flex-wrap justify-center rounded-md border-2 border-gray-800 p-1 text-xs text-gray-200",
               {
                 "border-violet-300": item.is_mythic,
-                "bg-indigo-600": selectedUnique.includes(item.id),
-                "bg-slate-950": !selectedUnique.includes(item.id),
+                "bg-indigo-600": selectedUniques.includes(item.id),
+                "bg-slate-950": !selectedUniques.includes(item.id),
               },
             )}
           >
@@ -53,11 +66,24 @@ function App() {
         ))}
       </div>
 
-      <div className="grid grid-cols-1 gap-4 pt-20 sm:grid-cols-2 md:grid-cols-4">
-        {filteredData?.map((planner) => (
-          <PlannerCard key={planner.id} planner={planner} />
+      {filteredData &&
+        Object.entries(filteredData).map(([className, plannerData]) => (
+          <div key={className} className="flex flex-col gap-4 pt-20">
+            <h2 className="text-2xl font-bold capitalize text-gray-200">
+              {className}
+            </h2>
+
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
+              {plannerData.map((planner) => (
+                <PlannerCard
+                  key={planner.id}
+                  planner={planner}
+                  selectedUniques={selectedUniques}
+                />
+              ))}
+            </div>
+          </div>
         ))}
-      </div>
     </div>
   );
 }

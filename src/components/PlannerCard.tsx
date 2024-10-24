@@ -4,21 +4,30 @@ type PlannerResult = {
   permalink: string;
   embed_id: string;
   author: string;
-  classes: string[];
+  class: string;
   last_modified: string;
   items: Array<{
     id: string;
     name: string;
+    is_mythic: boolean;
+    plannerIndex: number;
+    plannerName: string;
   }>;
 };
 
-const classFormatter = (cls: string) => {
-  return cls.replace(/d4-/gi, "");
-};
+export const PlannerCard = ({
+  planner,
+  selectedUniques,
+}: {
+  planner: PlannerResult;
+  selectedUniques: string[];
+}) => {
+  const plannerVariants = planner.items.filter(({ id }) =>
+    selectedUniques.includes(id),
+  );
 
-export const PlannerCard = ({ planner }: { planner: PlannerResult }) => {
   return (
-    <div className="bg-card text-card-foreground overflow-hidden rounded-xl border shadow">
+    <div className="rounded-xl border border-gray-600 shadow">
       <div className="flex flex-col space-y-1.5 p-6">
         <div className="font-semibold leading-none tracking-tight">
           <a
@@ -34,14 +43,35 @@ export const PlannerCard = ({ planner }: { planner: PlannerResult }) => {
       <div className="p-6 pt-0">
         <div>Author: {planner.author}</div>
         <div>Last Updated: {planner.last_modified}</div>
-        <div className="capitalize">
+        <div>
           Class:{" "}
           <a
-            href={`https://maxroll.gg/d4/build-guides?filter%5Bclasses%5D%5Btaxonomy%5D=taxonomies.classes&filter%5Bclasses%5D%5Bvalue%5D=${planner.classes[0]}`}
+            href={`https://maxroll.gg/d4/build-guides?filter%5Bclasses%5D%5Btaxonomy%5D=taxonomies.classes&filter%5Bclasses%5D%5Bvalue%5D=${planner.class}`}
             target="_blank"
+            className="capitalize hover:text-indigo-600 hover:underline hover:underline-offset-1"
           >
-            {classFormatter(planner.classes[0])}
+            {planner.class}
           </a>
+        </div>
+        <div>
+          <div className="py-4 font-semibold leading-none tracking-tight">
+            Variants
+          </div>
+          <ul>
+            {plannerVariants.map((variant) => (
+              <li
+                key={variant.plannerIndex}
+                className="hover:text-indigo-600 hover:underline hover:underline-offset-1"
+              >
+                <a
+                  href={`https://maxroll.gg/d4/planner/${planner.embed_id}#${variant.plannerIndex}}`}
+                  target="_blank"
+                >
+                  {variant.plannerName}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </div>
     </div>
