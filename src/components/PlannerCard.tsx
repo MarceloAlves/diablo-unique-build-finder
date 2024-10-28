@@ -26,6 +26,8 @@ export const PlannerCard = ({
     selectedUniques.includes(id),
   );
 
+  const hasMultipleSelections = selectedUniques.length > 1;
+
   return (
     <div className="rounded-xl border border-gray-600 shadow">
       <div className="flex flex-col space-y-1.5 p-6">
@@ -58,16 +60,17 @@ export const PlannerCard = ({
             Variants
           </div>
           <ul>
-            {plannerVariants.map((variant) => (
+            {plannerVariants.map((variant, index) => (
               <li
-                key={variant.plannerIndex}
+                key={`${planner.embed_id}-${index}`}
                 className="hover:text-indigo-600 hover:underline hover:underline-offset-1"
               >
                 <a
                   href={`https://maxroll.gg/d4/planner/${planner.embed_id}#${variant.plannerIndex}}`}
                   target="_blank"
                 >
-                  {variant.plannerName}
+                  {variant.plannerName}{" "}
+                  {hasMultipleSelections ? ` - ${variant.name}` : ""}
                 </a>
               </li>
             ))}

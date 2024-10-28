@@ -1,18 +1,21 @@
 import data from "./assets/data.json" assert { type: "json" };
 import uniques from "./assets/uniques.json" assert { type: "json" };
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import { PlannerCard } from "./components/PlannerCard";
 import { cn } from "./lib/utils";
+import useQueryParams from "react-use-query-params";
 
 function App() {
-  const [selectedUniques, setSelectedUniques] = useState<string[]>([]);
+  const [params, setParams] = useQueryParams<{
+    search: string[];
+  }>();
 
   const filteredData = useMemo(() => {
-    if (selectedUniques.length === 0) return null;
+    if (params.search.length === 0) return null;
 
     return data
       .filter((planner) =>
-        planner.items.some((item) => selectedUniques.includes(item.id)),
+        planner.items.some((item) => params.search.includes(item.id)),
       )
       .reduce(
         (acc, cur) => {
@@ -23,17 +26,19 @@ function App() {
         },
         {} as Record<string, typeof data>,
       );
-  }, [selectedUniques]);
+  }, [params.search]);
 
   const handleSelection = (id: string) => {
-    if (selectedUniques.includes(id)) {
-      setSelectedUniques(selectedUniques.filter((item) => item !== id));
+    if (params.search.includes(id)) {
+      setParams({
+        search: params.search.filter((item) => item !== id),
+      });
     } else {
-      setSelectedUniques((prev) => [...prev, id]);
+      setParams({
+        search: [...params.search, id],
+      });
     }
   };
-
-  console.log(filteredData);
 
   return (
     <div className="container">
@@ -45,8 +50,8 @@ function App() {
               "flex flex-col flex-wrap justify-center rounded-md border-2 border-gray-800 p-1 text-xs text-gray-200",
               {
                 "border-violet-300": item.is_mythic,
-                "bg-indigo-600": selectedUniques.includes(item.id),
-                "bg-slate-950": !selectedUniques.includes(item.id),
+                "bg-indigo-600": params.search.includes(item.id),
+                "bg-slate-950": !params.search.includes(item.id),
               },
             )}
           >
@@ -78,7 +83,7 @@ function App() {
                 <PlannerCard
                   key={planner.id}
                   planner={planner}
-                  selectedUniques={selectedUniques}
+                  selectedUniques={params.search}
                 />
               ))}
             </div>

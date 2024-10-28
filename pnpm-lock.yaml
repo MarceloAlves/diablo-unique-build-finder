@@ -22,6 +22,9 @@ importers:
       react-dom:
         specifier: ^18.2.0
         version: 18.3.1(react@18.3.1)
+      react-use-query-params:
+        specifier: ^2.1.0
+        version: 2.1.0(react@18.3.1)
       simple-git-hooks:
         specifier: ^2.11.1
         version: 2.11.1
@@ -2186,6 +2189,14 @@ packages:
       }
     engines: { node: ">=0.10.0" }
 
+  react-use-query-params@2.1.0:
+    resolution:
+      {
+        integrity: sha512-tloMe2QgQPgqQY3Q/EE8cTLP5GOXupPwfOgeRAcSjtYFtV+tkClkm6C7Y8ZkVOL/YeKj91RfYtObB8UPEkZnpg==,
+      }
+    peerDependencies:
+      react: ">=13"
+
   react@18.3.1:
     resolution:
       {
@@ -3762,6 +3773,10 @@ snapshots:
       scheduler: 0.23.2
 
   react-refresh@0.14.2: {}
+
+  react-use-query-params@2.1.0(react@18.3.1):
+    dependencies:
+      react: 18.3.1
 
   react@18.3.1:
     dependencies:
