@@ -1,6 +1,12 @@
 const data = await Bun.file("./src/assets/data.json").json();
 
-const allItems = data.flatMap((d) => d.items);
+const allItems = data
+  .flatMap((d) => d.items)
+  .map((item) => ({
+    id: item.id,
+    name: item.name,
+    is_mythic: item.is_mythic,
+  }));
 
 const uniques = [
   ...new Map(allItems.map((item) => [item["id"], item])).values(),
