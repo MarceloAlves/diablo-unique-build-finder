@@ -310,8 +310,8 @@
     "embed_id": "rp4nr0h8",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737401661,
+    "last_modified": "January 21, 2025",
+    "last_modified_unix": 1737478117,
     "items": [
       {
         "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
@@ -3474,8 +3474,8 @@
     "embed_id": "my2ns05t",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 19, 2025",
-    "last_modified_unix": 1737299413,
+    "last_modified": "January 21, 2025",
+    "last_modified_unix": 1737479103,
     "items": [
       {
         "greaterAffix": "UNIQUE_SkillRankBonus_Generic_Category_Mobility",
@@ -4567,7 +4567,7 @@
     "author": "deezythemonster",
     "class": "rogue",
     "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737467963,
+    "last_modified_unix": 1737498625,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -4602,7 +4602,7 @@
         "plannerName": "Inner Sight"
       },
       {
-        "greaterAffix": "S04_Resource_Max_AllClasses",
+        "greaterAffix": "S04_Life",
         "id": "Pants_Unique_Generic_102",
         "is_mythic": false,
         "name": "Tibault's Will",
@@ -4674,7 +4674,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UBERUNIQUE_Resource_Max_AllClasses_HarlequinCrest",
+        "greaterAffix": "UBERUNIQUE_LifeFlat_HarlequinCrest",
         "id": "Helm_Unique_Generic_002",
         "is_mythic": true,
         "name": "Harlequin Crest",
@@ -4846,8 +4846,8 @@
     "embed_id": "yiibp0kp",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737402071,
+    "last_modified": "January 21, 2025",
+    "last_modified_unix": 1737479097,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
@@ -6786,63 +6786,55 @@
     "embed_id": "1e2b30yk",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737402022,
+    "last_modified": "January 21, 2025",
+    "last_modified_unix": 1737484839,
     "items": [
       {
-        "greaterAffix": "UBERUNIQUE_LifeFlat_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
-        "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
-        "id": "Amulet_Unique_Generic_101",
+        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
         "is_mythic": false,
-        "name": "Banished Lord's Talisman",
+        "name": "Fists of Fate",
         "plannerIndex": 2,
-        "plannerName": "Mythic"
+        "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UBERUNIQUE_LifeFlat_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
-        "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_LifePercent_Doombringer",
-        "id": "1HSword_Unique_Generic_001",
-        "is_mythic": true,
-        "name": "Doombringer",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifeFlat_HigherHigher",
+        "greaterAffix": "UNIQUE_DamageReduction_Trapped",
         "id": "Pants_Unique_Rogue_004",
         "is_mythic": false,
         "name": "Eyes in the Dark",
         "plannerIndex": 2,
-        "plannerName": "Mythic"
+        "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
-        "id": "Ring_Unique_Generic_101",
-        "is_mythic": true,
-        "name": "Ring of Starless Skies",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
+        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate",
+        "id": "Boots_Unique_Rogue_100",
         "is_mythic": false,
-        "name": "Asheara's Khanjar",
+        "name": "Beastfall Boots",
         "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": null,
+        "id": "Pants_Unique_Rogue_004",
+        "is_mythic": false,
+        "name": "Eyes in the Dark",
+        "plannerIndex": 1,
+        "plannerName": "T1 Starter"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
+        "id": "Helm_Unique_Generic_002",
+        "is_mythic": true,
+        "name": "Harlequin Crest",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 3,
         "plannerName": "Mythic"
       },
       {
@@ -6850,160 +6842,32 @@
         "id": "Gloves_Unique_Generic_002",
         "is_mythic": false,
         "name": "Fists of Fate",
-        "plannerIndex": 2,
+        "plannerIndex": 3,
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UNIQUE_LifeFlat_Higher",
-        "id": "Chest_Unique_Rogue_100",
-        "is_mythic": false,
-        "name": "Scoundrel's Leathers",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_Resource_Max_AllClasses_Higher",
-        "id": "Boots_Unique_Rogue_100",
-        "is_mythic": false,
-        "name": "Beastfall Boots",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifeFlat_Higher",
-        "id": "Chest_Unique_Rogue_100",
-        "is_mythic": false,
-        "name": "Scoundrel's Leathers",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_LifePercent_Doombringer",
-        "id": "1HSword_Unique_Generic_001",
-        "is_mythic": true,
-        "name": "Doombringer",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
-        "id": "Gloves_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Fists of Fate",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifeFlat_HigherHigher",
-        "id": "Pants_Unique_Rogue_004",
-        "is_mythic": false,
-        "name": "Eyes in the Dark",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UNIQUE_Resource_Max_AllClasses_Higher",
-        "id": "Boots_Unique_Rogue_100",
-        "is_mythic": false,
-        "name": "Beastfall Boots",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
-        "id": "Ring_Unique_Generic_101",
-        "is_mythic": true,
-        "name": "Ring of Starless Skies",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
-        "id": "Amulet_Unique_Generic_101",
-        "is_mythic": false,
-        "name": "Banished Lord's Talisman",
-        "plannerIndex": 1,
-        "plannerName": "Starter"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_LifeFlat_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
-        "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifeFlat_Higher",
-        "id": "Chest_Unique_Rogue_100",
-        "is_mythic": false,
-        "name": "Scoundrel's Leathers",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_LifePercent_Doombringer",
-        "id": "1HSword_Unique_Generic_001",
-        "is_mythic": true,
-        "name": "Doombringer",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
-        "id": "Gloves_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Fists of Fate",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifeFlat_HigherHigher",
+        "greaterAffix": "UNIQUE_DamageReduction_Trapped",
         "id": "Pants_Unique_Rogue_004",
         "is_mythic": false,
         "name": "Eyes in the Dark",
         "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
+        "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UNIQUE_Resource_Max_AllClasses_Higher",
+        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate",
         "id": "Boots_Unique_Rogue_100",
         "is_mythic": false,
         "name": "Beastfall Boots",
         "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
+        "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
         "name": "Ring of Starless Skies",
         "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
-      },
-      {
-        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
-        "id": "Amulet_Unique_Generic_101",
-        "is_mythic": false,
-        "name": "Banished Lord's Talisman",
-        "plannerIndex": 3,
-        "plannerName": "Pit Pushing"
+        "plannerName": "Mythic"
       }
     ]
   },
@@ -7263,7 +7127,7 @@
     "author": "serocifkre",
     "class": "necromancer",
     "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737472533,
+    "last_modified_unix": 1737481941,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_FlatLife_Grandfather",
@@ -7628,6 +7492,210 @@
         "name": "Arreat's Bearing",
         "plannerIndex": 4,
         "plannerName": "Speedfarming"
+      }
+    ]
+  },
+  {
+    "id": "19335",
+    "post_title": "Bone Spirit Necromancer Endgame Build Guide",
+    "permalink": "https://maxroll.gg/d4/build-guides/bone-spirit-necromancer-guide",
+    "embed_id": "vq71l05o",
+    "author": "serocifkre",
+    "class": "necromancer",
+    "last_modified": "January 21, 2025",
+    "last_modified_unix": 1737482118,
+    "items": [
+      {
+        "greaterAffix": "UNIQUE_LifePercent",
+        "id": "Amulet_Unique_Generic_101",
+        "is_mythic": false,
+        "name": "Banished Lord's Talisman",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "S04_Life",
+        "id": "Pants_Unique_Necro_100",
+        "is_mythic": false,
+        "name": "Blood Moon Breeches",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Necro_Tag_Bone",
+        "id": "Boots_Unique_Necro_101",
+        "is_mythic": false,
+        "name": "Path of Trag'Oul",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "S04_Life",
+        "id": "Pants_Unique_Necro_100",
+        "is_mythic": false,
+        "name": "Blood Moon Breeches",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Necro_Tag_Bone",
+        "id": "Boots_Unique_Necro_101",
+        "is_mythic": false,
+        "name": "Path of Trag'Oul",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
+        "id": "Amulet_Unique_Generic_101",
+        "is_mythic": false,
+        "name": "Banished Lord's Talisman",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "S04_Life",
+        "id": "Pants_Unique_Necro_100",
+        "is_mythic": false,
+        "name": "Blood Moon Breeches",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Necro_Tag_Bone",
+        "id": "Boots_Unique_Necro_101",
+        "is_mythic": false,
+        "name": "Path of Trag'Oul",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
+        "id": "Amulet_Unique_Generic_101",
+        "is_mythic": false,
+        "name": "Banished Lord's Talisman",
+        "plannerIndex": 5,
+        "plannerName": "Speed Farming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "S04_Life",
+        "id": "Pants_Unique_Necro_100",
+        "is_mythic": false,
+        "name": "Blood Moon Breeches",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Necro_Tag_Bone",
+        "id": "Boots_Unique_Necro_101",
+        "is_mythic": false,
+        "name": "Path of Trag'Oul",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "S04_SkillRankBonus_Generic_Category_Core",
+        "id": "Amulet_Unique_Generic_101",
+        "is_mythic": false,
+        "name": "Banished Lord's Talisman",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
       }
     ]
   },
