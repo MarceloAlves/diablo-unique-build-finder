@@ -1,21 +1,35 @@
 import data from "./assets/data.json" assert { type: "json" };
 import uniques from "./assets/uniques.json" assert { type: "json" };
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { PlannerCard } from "./components/PlannerCard";
 import { cn } from "./lib/utils";
 import useQueryParams from "react-use-query-params";
+import { ClassIcon } from "./components/ClassIcon";
+
+const DEFAULT_CLASSES = [
+  "barbarian",
+  "druid",
+  "necromancer",
+  "rogue",
+  "sorcerer",
+  "spiritborn",
+];
 
 function App() {
   const [params, setParams] = useQueryParams<{
     search: string[];
   }>();
+  const [selectedClasses, setSelectedClasses] =
+    useState<string[]>(DEFAULT_CLASSES);
 
   const filteredData = useMemo(() => {
     if (params.search.length === 0) return null;
 
     return data
-      .filter((planner) =>
-        planner.items.some((item) => params.search.includes(item.id)),
+      .filter(
+        (planner) =>
+          planner.items.some((item) => params.search.includes(item.id)) &&
+          selectedClasses.includes(planner.class),
       )
       .reduce(
         (acc, cur) => {
@@ -26,7 +40,13 @@ function App() {
         },
         {} as Record<string, typeof data>,
       );
-  }, [params.search]);
+  }, [params.search, selectedClasses]);
+
+  const filteredUniques = useMemo(() => {
+    return uniques.filter((item) =>
+      selectedClasses.some((cls) => item.classes.includes(cls)),
+    );
+  }, [selectedClasses]);
 
   const handleSelection = (id: string) => {
     if (params.search.includes(id)) {
@@ -40,10 +60,54 @@ function App() {
     }
   };
 
+  const handleClassSelection = (cls: string) => {
+    if (selectedClasses.includes(cls)) {
+      setSelectedClasses(selectedClasses.filter((item) => item !== cls));
+    } else {
+      setSelectedClasses([...selectedClasses, cls]);
+    }
+
+    setParams({
+      search: [],
+    });
+  };
+
   return (
     <div className="container">
+      <div className="flex w-full justify-center gap-4 py-4">
+        <ClassIcon
+          name="barbarian"
+          selected={selectedClasses.includes("barbarian")}
+          onClick={handleClassSelection}
+        />
+        <ClassIcon
+          name="druid"
+          selected={selectedClasses.includes("druid")}
+          onClick={handleClassSelection}
+        />
+        <ClassIcon
+          name="necromancer"
+          selected={selectedClasses.includes("necromancer")}
+          onClick={handleClassSelection}
+        />
+        <ClassIcon
+          name="rogue"
+          selected={selectedClasses.includes("rogue")}
+          onClick={handleClassSelection}
+        />
+        <ClassIcon
+          name="sorcerer"
+          selected={selectedClasses.includes("sorcerer")}
+          onClick={handleClassSelection}
+        />
+        <ClassIcon
+          name="spiritborn"
+          selected={selectedClasses.includes("spiritborn")}
+          onClick={handleClassSelection}
+        />
+      </div>
       <div className="grid grid-cols-[repeat(auto-fit,minmax(90px,_1fr))] gap-4">
-        {uniques.map((item) => (
+        {filteredUniques.map((item) => (
           <div
             key={item.id}
             className={cn(
