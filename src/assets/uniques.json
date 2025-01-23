@@ -45,7 +45,7 @@
     "id": "Amulet_Unique_Generic_101",
     "name": "Banished Lord's Talisman",
     "is_mythic": false,
-    "classes": ["necromancer", "rogue", "barbarian"]
+    "classes": ["barbarian", "necromancer", "rogue"]
   },
   {
     "id": "Boots_Unique_Rogue_100",
@@ -87,7 +87,7 @@
     "id": "S05_BSK_Helm_Unique_Generic_001",
     "name": "Crown of Lucion",
     "is_mythic": false,
-    "classes": ["necromancer", "barbarian"]
+    "classes": ["barbarian", "necromancer", "rogue"]
   },
   {
     "id": "Gloves_Unique_Necro_101",
@@ -111,7 +111,7 @@
     "id": "1HSword_Unique_Generic_001",
     "name": "Doombringer",
     "is_mythic": true,
-    "classes": ["barbarian", "rogue", "necromancer"]
+    "classes": ["barbarian", "necromancer", "rogue"]
   },
   {
     "id": "Ring_Unique_Druid_101",
@@ -126,12 +126,6 @@
     "classes": ["necromancer"]
   },
   {
-    "id": "Boots_Unique_Sorc_100",
-    "name": "Esu's Heirloom",
-    "is_mythic": false,
-    "classes": ["sorcerer"]
-  },
-  {
     "id": "Pants_Unique_Rogue_004",
     "name": "Eyes in the Dark",
     "is_mythic": false,
@@ -141,7 +135,7 @@
     "id": "Gloves_Unique_Generic_002",
     "name": "Fists of Fate",
     "is_mythic": false,
-    "classes": ["rogue", "barbarian", "necromancer", "spiritborn"]
+    "classes": ["barbarian", "necromancer", "rogue", "spiritborn"]
   },
   {
     "id": "Gloves_Unique_Sorc_101",
@@ -183,7 +177,7 @@
     "id": "Helm_Unique_Generic_002",
     "name": "Harlequin Crest",
     "is_mythic": true,
-    "classes": ["barbarian", "sorcerer", "spiritborn", "druid", "rogue"]
+    "classes": ["barbarian", "druid", "rogue", "sorcerer", "spiritborn"]
   },
   {
     "id": "Helm_Unique_Spiritborn_009_x1",
@@ -196,11 +190,11 @@
     "name": "Heir of Perdition",
     "is_mythic": true,
     "classes": [
-      "sorcerer",
-      "necromancer",
       "barbarian",
       "druid",
+      "necromancer",
       "rogue",
+      "sorcerer",
       "spiritborn"
     ]
   },
@@ -334,7 +328,7 @@
     "id": "Chest_Unique_Generic_100",
     "name": "Razorplate",
     "is_mythic": false,
-    "classes": ["spiritborn"]
+    "classes": ["barbarian", "spiritborn"]
   },
   {
     "id": "Ring_Unique_Necro_100",
@@ -353,11 +347,11 @@
     "name": "Ring of Starless Skies",
     "is_mythic": true,
     "classes": [
-      "rogue",
       "barbarian",
-      "sorcerer",
-      "necromancer",
       "druid",
+      "necromancer",
+      "rogue",
+      "sorcerer",
       "spiritborn"
     ]
   },
@@ -401,7 +395,7 @@
     "id": "S05_BSK_1HSword_Unique_Generic_001",
     "name": "Shard of Verathiel",
     "is_mythic": false,
-    "classes": ["rogue", "sorcerer", "barbarian"]
+    "classes": ["barbarian", "rogue", "sorcerer"]
   },
   {
     "id": "2HPolearm_Unique_Generic_001",
@@ -414,12 +408,12 @@
     "name": "Shroud of False Death",
     "is_mythic": true,
     "classes": [
+      "barbarian",
+      "druid",
+      "necromancer",
       "rogue",
       "sorcerer",
-      "necromancer",
-      "spiritborn",
-      "druid",
-      "barbarian"
+      "spiritborn"
     ]
   },
   {
@@ -504,7 +498,7 @@
     "id": "Pants_Unique_Generic_102",
     "name": "Tibault's Will",
     "is_mythic": false,
-    "classes": ["barbarian", "rogue", "druid"]
+    "classes": ["barbarian", "druid", "rogue"]
   },
   {
     "id": "Chest_Unique_Generic_127",
@@ -552,6 +546,6 @@
     "id": "Boots_Unique_Generic_125",
     "name": "Yen's Blessing",
     "is_mythic": false,
-    "classes": ["spiritborn", "barbarian"]
+    "classes": ["barbarian", "spiritborn"]
   }
 ]
