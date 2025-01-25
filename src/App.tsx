@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="container">
-      <div className="flex w-full justify-center gap-4 py-4">
+      <div className="grid w-full grid-cols-3 gap-4 py-4 md:flex md:flex-wrap md:justify-center">
         <ClassIcon
           name="barbarian"
           selected={selectedClasses.includes("barbarian")}

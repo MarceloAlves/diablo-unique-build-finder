@@ -9,7 +9,7 @@ export const ClassIcon = ({
 }) => {
   return (
     <img
-      className="opacity-30 hover:scale-110 hover:cursor-pointer aria-selected:opacity-100"
+      className="place-self-center opacity-30 hover:scale-110 hover:cursor-pointer aria-selected:opacity-100"
       height={80}
       width={80}
       src={`/images/classes/${name}.png`}
