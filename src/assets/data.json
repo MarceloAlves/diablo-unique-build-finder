@@ -194,64 +194,40 @@
     "embed_id": "h47y002z",
     "author": "deezythemonster",
     "class": "spiritborn",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737467819,
+    "last_modified": "February 1, 2025",
+    "last_modified_unix": 1738377320,
     "items": [
       {
-        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
+        "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
         "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
+        "name": "Heir of Perdition",
         "plannerIndex": 3,
         "plannerName": "Mythic"
       },
       {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 5,
+        "plannerName": "Speedfarming"
+      },
+      {
         "greaterAffix": "UNIQUE_Double_Damage_Tag_Generic_Basic",
         "id": "Quarterstaff_Unique_Spiritborn_012_x1",
         "is_mythic": false,
         "name": "Sepazontec",
         "plannerIndex": 4,
         "plannerName": "Pit Push"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
-        "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 5,
-        "plannerName": "Speedrunning"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 5,
-        "plannerName": "Speedrunning"
-      },
-      {
-        "greaterAffix": "UNIQUE_Double_Damage_Tag_Generic_Basic",
-        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
-        "is_mythic": false,
-        "name": "Sepazontec",
-        "plannerIndex": 5,
-        "plannerName": "Speedrunning"
       },
       {
         "greaterAffix": "UNIQUE_Armor_Higher",
@@ -262,12 +238,28 @@
         "plannerName": "Ancestral"
       },
       {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 5,
+        "plannerName": "Speedfarming"
+      },
+      {
         "greaterAffix": "UNIQUE_Double_Damage_Tag_Generic_Basic",
         "id": "Quarterstaff_Unique_Spiritborn_012_x1",
         "is_mythic": false,
         "name": "Sepazontec",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
+        "plannerIndex": 5,
+        "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
       },
       {
         "greaterAffix": "UNIQUE_DamageReduction",
@@ -286,10 +278,18 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
         "is_mythic": true,
-        "name": "Harlequin Crest",
+        "name": "Shroud of False Death",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_Double_Damage_Tag_Generic_Basic",
+        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
+        "is_mythic": false,
+        "name": "Sepazontec",
         "plannerIndex": 3,
         "plannerName": "Mythic"
       },
@@ -310,10 +310,42 @@
     "embed_id": "rp4nr0h8",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 22, 2025",
-    "last_modified_unix": 1737525211,
+    "last_modified": "February 4, 2025",
+    "last_modified_unix": 1738682691,
     "items": [
       {
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
+        "id": "Helm_Unique_Rogue_001",
+        "is_mythic": false,
+        "name": "Cowl of the Nameless",
+        "plannerIndex": 4,
+        "plannerName": "No Snapshots"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "No Snapshots"
+      },
+      {
+        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 4,
+        "plannerName": "No Snapshots"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
+        "id": "Pants_Unique_Generic_102",
+        "is_mythic": false,
+        "name": "Tibault's Will",
+        "plannerIndex": 4,
+        "plannerName": "No Snapshots"
+      },
+      {
         "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
         "id": "1HDagger_Unique_Rogue_002",
         "is_mythic": false,
@@ -322,36 +354,20 @@
         "plannerName": "Push/Bosses"
       },
       {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarm"
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
+        "id": "Helm_Unique_Rogue_001",
+        "is_mythic": false,
+        "name": "Cowl of the Nameless",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
+        "id": "Helm_Unique_Rogue_001",
         "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarm"
-      },
-      {
-        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
-        "id": "Gloves_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Fists of Fate",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarm"
-      },
-      {
-        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
-        "id": "Pants_Unique_Generic_102",
-        "is_mythic": false,
-        "name": "Tibault's Will",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarm"
+        "name": "Cowl of the Nameless",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
       },
       {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
@@ -360,86 +376,6 @@
         "name": "Cowl of the Nameless",
         "plannerIndex": 5,
         "plannerName": "Push/Bosses"
-      },
-      {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
-        "id": "Helm_Unique_Rogue_001",
-        "is_mythic": false,
-        "name": "Cowl of the Nameless",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarm"
-      },
-      {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
-        "id": "Helm_Unique_Rogue_001",
-        "is_mythic": false,
-        "name": "Cowl of the Nameless",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 2,
-        "plannerName": "Ancestral"
-      },
-      {
-        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
-        "id": "Pants_Unique_Generic_102",
-        "is_mythic": false,
-        "name": "Tibault's Will",
-        "plannerIndex": 2,
-        "plannerName": "Ancestral"
-      },
-      {
-        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
-        "id": "Gloves_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Fists of Fate",
-        "plannerIndex": 2,
-        "plannerName": "Ancestral"
-      },
-      {
-        "greaterAffix": null,
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 1,
-        "plannerName": "T1 Starter"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
-        "id": "Gloves_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Fists of Fate",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
-        "id": "Pants_Unique_Generic_102",
-        "is_mythic": false,
-        "name": "Tibault's Will",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
       },
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
@@ -458,12 +394,52 @@
         "plannerName": "Push/Bosses"
       },
       {
-        "greaterAffix": "S04_CoreStats_All",
+        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
         "id": "Pants_Unique_Generic_102",
         "is_mythic": false,
         "name": "Tibault's Will",
         "plannerIndex": 5,
         "plannerName": "Push/Bosses"
+      },
+      {
+        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
+        "id": "Pants_Unique_Generic_102",
+        "is_mythic": false,
+        "name": "Tibault's Will",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
+        "id": "Pants_Unique_Generic_102",
+        "is_mythic": false,
+        "name": "Tibault's Will",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
       }
     ]
   },
@@ -474,8 +450,8 @@
     "embed_id": "9jt105kf",
     "author": "lordxsaura",
     "class": "necromancer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737796898,
+    "last_modified": "February 8, 2025",
+    "last_modified_unix": 1738992368,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
@@ -786,8 +762,8 @@
     "embed_id": "d2fub0nh",
     "author": "Chronikz",
     "class": "spiritborn",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737751708,
+    "last_modified": "January 26, 2025",
+    "last_modified_unix": 1737935593,
     "items": [
       {
         "greaterAffix": "UNIQUE_Resistance_All_Higher",
@@ -950,8 +926,8 @@
     "embed_id": "v9cnw0sj",
     "author": "thomasdatrain",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737446545,
+    "last_modified": "January 30, 2025",
+    "last_modified_unix": 1738222956,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
@@ -1434,8 +1410,8 @@
     "embed_id": "0edm2052",
     "author": "Wudijo",
     "class": "spiritborn",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737734796,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738141883,
     "items": [
       {
         "greaterAffix": "UNIQUE_DamageReduction",
@@ -1598,8 +1574,8 @@
     "embed_id": "gve26022",
     "author": "deezythemonster",
     "class": "spiritborn",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737791126,
+    "last_modified": "February 1, 2025",
+    "last_modified_unix": 1738381152,
     "items": [
       {
         "greaterAffix": "UNIQUE_DamageReduction",
@@ -1714,8 +1690,8 @@
     "embed_id": "s4ak905p",
     "author": "Chronikz",
     "class": "spiritborn",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737751739,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738585635,
     "items": [
       {
         "greaterAffix": "S04_CooldownReductionCDR",
@@ -1862,10 +1838,10 @@
         "plannerName": "Pit Push"
       },
       {
-        "greaterAffix": "S04_CooldownReductionCDR",
-        "id": "Ring_Unique_Spiritborn_006_x1",
-        "is_mythic": false,
-        "name": "Ring of the Midnight Sun",
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
         "plannerIndex": 5,
         "plannerName": "Pit Push"
       }
@@ -1878,8 +1854,8 @@
     "embed_id": "3i2z20zh",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737449441,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738149438,
     "items": [
       {
         "greaterAffix": "PassiveRankBonus_Barb_01_AggressiveResistance",
@@ -2122,8 +2098,8 @@
     "embed_id": "7z5vm05i",
     "author": "Northwar",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737800197,
+    "last_modified": "January 31, 2025",
+    "last_modified_unix": 1738318189,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_DamageReduction_TyraelsMight",
@@ -2148,6 +2124,14 @@
         "name": "Ring of Starless Skies",
         "plannerIndex": 3,
         "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
+        "id": "Helm_Unique_Generic_002",
+        "is_mythic": true,
+        "name": "Harlequin Crest",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
       },
       {
         "greaterAffix": "S04_CooldownReductionCDR",
@@ -2214,14 +2198,6 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "S04_CooldownReductionCDR",
-        "id": "S05_BSK_Boots_Unique_Generic_001",
-        "is_mythic": false,
-        "name": "Rakanoth's Wake",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
         "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
@@ -2262,8 +2238,8 @@
     "embed_id": "ekhwh0kv",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737401803,
+    "last_modified": "January 28, 2025",
+    "last_modified_unix": 1738023742,
     "items": [
       {
         "greaterAffix": "S04_CoreStat_Dexterity",
@@ -2574,32 +2550,24 @@
     "embed_id": "xhau40nt",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737811582,
+    "last_modified": "February 8, 2025",
+    "last_modified_unix": 1739041489,
     "items": [
       {
         "greaterAffix": "UNIQUE_CDR_Skill_Barb_WrathoftheBerserker",
         "id": "Helm_Unique_Barb_101_x1",
         "is_mythic": false,
         "name": "Ugly Bastard Helm",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
-        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
-        "id": "Chest_Unique_Barb_101",
-        "is_mythic": false,
-        "name": "Mantle of Mountain's Fury",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 8,
+        "plannerName": "Shroud"
       },
       {
         "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
         "id": "Gloves_Unique_Generic_002",
         "is_mythic": false,
         "name": "Fists of Fate",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 8,
+        "plannerName": "Shroud"
       },
       {
         "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
@@ -2639,15 +2607,7 @@
         "is_mythic": false,
         "name": "Ugly Bastard Helm",
         "plannerIndex": 5,
-        "plannerName": "Pit Push (RoSS)"
-      },
-      {
-        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
-        "id": "Chest_Unique_Barb_101",
-        "is_mythic": false,
-        "name": "Mantle of Mountain's Fury",
-        "plannerIndex": 5,
-        "plannerName": "Pit Push (RoSS)"
+        "plannerName": "Pit Push (Whirlwind) - WIP"
       },
       {
         "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
@@ -2655,7 +2615,7 @@
         "is_mythic": false,
         "name": "Fists of Fate",
         "plannerIndex": 5,
-        "plannerName": "Pit Push (RoSS)"
+        "plannerName": "Pit Push (Whirlwind) - WIP"
       },
       {
         "greaterAffix": "UBERUNIQUE_CritChance_RingofStarlessSkies",
@@ -2663,7 +2623,7 @@
         "is_mythic": true,
         "name": "Ring of Starless Skies",
         "plannerIndex": 5,
-        "plannerName": "Pit Push (RoSS)"
+        "plannerName": "Pit Push (Whirlwind) - WIP"
       },
       {
         "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
@@ -2696,6 +2656,126 @@
         "name": "Ugly Bastard Helm",
         "plannerIndex": 2,
         "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_Resource_Max_AllClasses_HarlequinCrest",
+        "id": "Helm_Unique_Generic_002",
+        "is_mythic": true,
+        "name": "Harlequin Crest",
+        "plannerIndex": 7,
+        "plannerName": "Ramaladni - WIP / probably bad"
+      },
+      {
+        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
+        "id": "Chest_Unique_Barb_101",
+        "is_mythic": false,
+        "name": "Mantle of Mountain's Fury",
+        "plannerIndex": 7,
+        "plannerName": "Ramaladni - WIP / probably bad"
+      },
+      {
+        "greaterAffix": "UNIQUE_Resistance_All_Higher",
+        "id": "Pants_Unique_Barb_100",
+        "is_mythic": false,
+        "name": "Arreat's Bearing",
+        "plannerIndex": 7,
+        "plannerName": "Ramaladni - WIP / probably bad"
+      },
+      {
+        "greaterAffix": "S04_CoreStat_Strength",
+        "id": "1HSword_Unique_Barb_101",
+        "is_mythic": false,
+        "name": "Ramaladni's Magnum Opus",
+        "plannerIndex": 7,
+        "plannerName": "Ramaladni - WIP / probably bad"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 8,
+        "plannerName": "Shroud"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 5,
+        "plannerName": "Pit Push (Whirlwind) - WIP"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CritChance_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 8,
+        "plannerName": "Shroud"
+      },
+      {
+        "greaterAffix": "UNIQUE_CDR_Skill_Barb_WrathoftheBerserker",
+        "id": "Helm_Unique_Barb_101_x1",
+        "is_mythic": false,
+        "name": "Ugly Bastard Helm",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UNIQUE_CritChance_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
+        "id": "Chest_Unique_Barb_101",
+        "is_mythic": false,
+        "name": "Mantle of Mountain's Fury",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CritChance_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
+        "id": "Chest_Unique_Barb_101",
+        "is_mythic": false,
+        "name": "Mantle of Mountain's Fury",
+        "plannerIndex": 9,
+        "plannerName": "Grandfather"
+      },
+      {
+        "greaterAffix": "UNIQUE_CritChance_HighVariance",
+        "id": "Gloves_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Fists of Fate",
+        "plannerIndex": 9,
+        "plannerName": "Grandfather"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_Grandfather",
+        "id": "2HSword_Unique_Generic_001",
+        "is_mythic": true,
+        "name": "The Grandfather",
+        "plannerIndex": 9,
+        "plannerName": "Grandfather"
+      },
+      {
+        "greaterAffix": "UNIQUE_CDR_Skill_Barb_WrathoftheBerserker",
+        "id": "Helm_Unique_Barb_101_x1",
+        "is_mythic": false,
+        "name": "Ugly Bastard Helm",
+        "plannerIndex": 9,
+        "plannerName": "Grandfather"
       }
     ]
   },
@@ -2706,8 +2786,8 @@
     "embed_id": "n8g5t020",
     "author": "dieoxide",
     "class": "rogue",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737471682,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738589504,
     "items": [
       {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
@@ -2718,10 +2798,26 @@
         "plannerName": "Ancestral"
       },
       {
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
+        "id": "Helm_Unique_Rogue_001",
+        "is_mythic": false,
+        "name": "Cowl of the Nameless",
+        "plannerIndex": 4,
+        "plannerName": "Shank Rogue"
+      },
+      {
         "greaterAffix": "UNIQUE_AttackSpeed_Basics",
         "id": "S05_BSK_1HSword_Unique_Generic_001",
         "is_mythic": false,
         "name": "Shard of Verathiel",
+        "plannerIndex": 2,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Marksman_Cutthroat",
+        "id": "Gloves_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Grasp of Shadow",
         "plannerIndex": 2,
         "plannerName": "Ancestral"
       },
@@ -2756,6 +2852,46 @@
         "name": "Beastfall Boots",
         "plannerIndex": 1,
         "plannerName": "T1 Starter"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Marksman_Cutthroat",
+        "id": "Gloves_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Grasp of Shadow",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "Shank Rogue"
+      },
+      {
+        "greaterAffix": "UNIQUE_AttackSpeed_Basics",
+        "id": "S05_BSK_1HSword_Unique_Generic_001",
+        "is_mythic": false,
+        "name": "Shard of Verathiel",
+        "plannerIndex": 4,
+        "plannerName": "Shank Rogue"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Marksman_Cutthroat",
+        "id": "Gloves_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Grasp of Shadow",
+        "plannerIndex": 4,
+        "plannerName": "Shank Rogue"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 4,
+        "plannerName": "Shank Rogue"
       },
       {
         "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
@@ -2890,8 +3026,8 @@
     "embed_id": "uaakw0yf",
     "author": "Northwar",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737802616,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737994331,
     "items": [
       {
         "greaterAffix": "UNIQUE_AttackSpeed_Basics",
@@ -3226,8 +3362,8 @@
     "embed_id": "a6fr60ny",
     "author": "Danger",
     "class": "druid",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737745523,
+    "last_modified": "January 28, 2025",
+    "last_modified_unix": 1738023646,
     "items": [
       {
         "greaterAffix": "S04_CoreStat_Willpower",
@@ -3252,14 +3388,6 @@
         "name": "Mjölnic Ryng",
         "plannerIndex": 2,
         "plannerName": "Ancestral"
-      },
-      {
-        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate_Higher",
-        "id": "Ring_Unique_Druid_100",
-        "is_mythic": false,
-        "name": "Airidah's Inexorable Will",
-        "plannerIndex": 4,
-        "plannerName": "Speedfarming"
       },
       {
         "greaterAffix": "S04_CoreStat_Willpower",
@@ -3342,8 +3470,8 @@
     "embed_id": "wwe3z02a",
     "author": "boiler",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737471683,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737956672,
     "items": [
       {
         "greaterAffix": "UNIQUE_SkillRankBonus_Druid_Special_Wolves_GIGA",
@@ -3466,11 +3594,11 @@
     "embed_id": "my2ns05t",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737479103,
+    "last_modified": "February 4, 2025",
+    "last_modified_unix": 1738681398,
     "items": [
       {
-        "greaterAffix": "UNIQUE_SkillRankBonus_Generic_Category_Mobility",
+        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Mobility",
         "id": "Boots_Unique_Rogue_101",
         "is_mythic": false,
         "name": "Assassin's Stride",
@@ -3510,14 +3638,6 @@
         "plannerName": "Starter"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Rogue_Discipline_T2_N1_WeaponMastery",
-        "id": "1HDagger_Unique_Rogue_002",
-        "is_mythic": false,
-        "name": "Asheara's Khanjar",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
         "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
         "id": "Gloves_Unique_Generic_002",
         "is_mythic": false,
@@ -3550,8 +3670,8 @@
     "embed_id": "nal430s1",
     "author": "thomasdatrain",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737458107,
+    "last_modified": "February 7, 2025",
+    "last_modified_unix": 1738936661,
     "items": [
       {
         "greaterAffix": "S04_PassiveRankBonus_Druid_Shapeshifting_T4_N1_Quickshift",
@@ -3682,7 +3802,7 @@
         "plannerName": "Speed Farming"
       },
       {
-        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
         "name": "Ring of Starless Skies",
@@ -3846,8 +3966,8 @@
     "embed_id": "wa1400yc",
     "author": "lordxsaura",
     "class": "necromancer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737797114,
+    "last_modified": "February 4, 2025",
+    "last_modified_unix": 1738637699,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
@@ -3994,8 +4114,8 @@
     "embed_id": "2r88l059",
     "author": "Northwar",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737801865,
+    "last_modified": "February 1, 2025",
+    "last_modified_unix": 1738403233,
     "items": [
       {
         "greaterAffix": "UNIQUE_AttackSpeed_Fireball",
@@ -4054,6 +4174,14 @@
         "plannerName": "Mythic"
       },
       {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
+      },
+      {
         "greaterAffix": "S04_CooldownReductionCDR",
         "id": "Helm_Unique_Generic_003",
         "is_mythic": false,
@@ -4092,6 +4220,46 @@
         "name": "Tal Rasha's Iridescent Loop",
         "plannerIndex": 2,
         "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "S04_SkillRankBonus_Sorc_Core_1_Fireball",
+        "id": "2HStaff_Unique_Sorc_002",
+        "is_mythic": false,
+        "name": "Staff of Endless Rage",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
+      },
+      {
+        "greaterAffix": "UNIQUE_CritChance_Higher",
+        "id": "Gloves_Unique_Sorc_002",
+        "is_mythic": false,
+        "name": "Gloves of the Illuminator",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
+      },
+      {
+        "greaterAffix": "S04_CooldownReductionCDR",
+        "id": "Ring_Unique_Sorc_101",
+        "is_mythic": false,
+        "name": "Tal Rasha's Iridescent Loop",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
+        "id": "Helm_Unique_Generic_002",
+        "is_mythic": true,
+        "name": "Harlequin Crest",
+        "plannerIndex": 6,
+        "plannerName": "Shatter bug"
       },
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
@@ -4222,8 +4390,8 @@
     "embed_id": "hq99053d",
     "author": "pandaglassjaw",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737781141,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1738001682,
     "items": [
       {
         "greaterAffix": "S04_PassiveRankBonus_Sorc_Elemental_T2_N1_GlassCannon",
@@ -4410,8 +4578,8 @@
     "embed_id": "sv20c0ka",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737448903,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738148727,
     "items": [
       {
         "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
@@ -4550,8 +4718,8 @@
     "embed_id": "se7uv0nv",
     "author": "deezythemonster",
     "class": "rogue",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737820609,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738555689,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -4566,8 +4734,8 @@
         "id": "1HSword_Unique_Generic_001",
         "is_mythic": true,
         "name": "Doombringer",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
       },
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
@@ -4586,12 +4754,36 @@
         "plannerName": "Inner Sight"
       },
       {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Marksman_Cutthroat",
+        "id": "Gloves_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Grasp of Shadow",
+        "plannerIndex": 5,
+        "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "Pit Push"
+      },
+      {
         "greaterAffix": "S04_Life",
         "id": "Pants_Unique_Generic_102",
         "is_mythic": false,
         "name": "Tibault's Will",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
       },
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -4614,8 +4806,8 @@
         "id": "Boots_Unique_Rogue_100",
         "is_mythic": false,
         "name": "Beastfall Boots",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
       },
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
@@ -4626,28 +4818,36 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
-        "greaterAffix": "UNIQUE_LifePercent",
-        "id": "Amulet_Unique_Generic_101",
-        "is_mythic": false,
-        "name": "Banished Lord's Talisman",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
-      },
-      {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
         "name": "Ring of Starless Skies",
         "plannerIndex": 4,
         "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
+      },
+      {
+        "greaterAffix": "UNIQUE_LifePercent",
+        "id": "Amulet_Unique_Generic_101",
+        "is_mythic": false,
+        "name": "Banished Lord's Talisman",
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
+        "id": "Ring_Unique_Generic_101",
+        "is_mythic": true,
+        "name": "Ring of Starless Skies",
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
       },
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -4662,8 +4862,8 @@
         "id": "Helm_Unique_Generic_002",
         "is_mythic": true,
         "name": "Harlequin Crest",
-        "plannerIndex": 4,
-        "plannerName": "Pit Push"
+        "plannerIndex": 7,
+        "plannerName": "Overpower"
       },
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
@@ -4830,8 +5030,8 @@
     "embed_id": "yiibp0kp",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737479097,
+    "last_modified": "February 4, 2025",
+    "last_modified_unix": 1738691615,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
@@ -4840,6 +5040,14 @@
         "name": "Ring of Starless Skies",
         "plannerIndex": 4,
         "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Imbuements_Higher",
+        "id": "Amulet_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Word of Hakan",
+        "plannerIndex": 3,
+        "plannerName": "Ancestral"
       },
       {
         "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
@@ -4854,6 +5062,14 @@
         "id": "Chest_Unique_Generic_103",
         "is_mythic": true,
         "name": "Shroud of False Death",
+        "plannerIndex": 4,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_SkillRankBonus_Rogue_Category_Imbuements_Higher",
+        "id": "Amulet_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Word of Hakan",
         "plannerIndex": 4,
         "plannerName": "Mythic"
       },
@@ -4882,8 +5098,8 @@
     "embed_id": "6g2sb0zd",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737345452,
+    "last_modified": "February 2, 2025",
+    "last_modified_unix": 1738492971,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_Grandfather",
@@ -4910,7 +5126,7 @@
         "plannerName": "Pit Push"
       },
       {
-        "greaterAffix": "UNIQUE_DamageReduction_WhileUnstoppable",
+        "greaterAffix": "S04_Life",
         "id": "Pants_Unique_Generic_102",
         "is_mythic": false,
         "name": "Tibault's Will",
@@ -4990,7 +5206,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UNIQUE_Resistance_All_Higher",
+        "greaterAffix": "S04_CooldownReductionCDR",
         "id": "S05_BSK_Boots_Unique_Generic_001",
         "is_mythic": false,
         "name": "Rakanoth's Wake",
@@ -5046,8 +5262,8 @@
     "embed_id": "622zs052",
     "author": "dieoxide",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737382822,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738591715,
     "items": [
       {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
@@ -5114,8 +5330,8 @@
     "embed_id": "4q1p8050",
     "author": "dieoxide",
     "class": "rogue",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737378368,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738590998,
     "items": [
       {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
@@ -5290,8 +5506,8 @@
     "embed_id": "0kc9i054",
     "author": "Northwar",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737801099,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737994344,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
@@ -5454,8 +5670,8 @@
     "embed_id": "xwfr50nm",
     "author": "Danger",
     "class": "druid",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737749646,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737975866,
     "items": [
       {
         "greaterAffix": "S04_PassiveRankBonus_Druid_10_WildImpulses",
@@ -5554,14 +5770,6 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "UNIQUE_CoreStat_WillpowerPercent_Higher",
-        "id": "Ring_Unique_Druid_100",
-        "is_mythic": false,
-        "name": "Airidah's Inexorable Will",
-        "plannerIndex": 5,
-        "plannerName": "Speedfarming"
-      },
-      {
         "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
@@ -5570,7 +5778,15 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
+        "id": "Ring_Unique_Druid_102",
+        "is_mythic": false,
+        "name": "Mjölnic Ryng",
+        "plannerIndex": 5,
+        "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
         "name": "Mjölnic Ryng",
@@ -5578,7 +5794,7 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
         "name": "Mjölnic Ryng",
@@ -5594,8 +5810,8 @@
     "embed_id": "qv3sc0yb",
     "author": "Northwar",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737802326,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737994353,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
@@ -5790,8 +6006,8 @@
     "embed_id": "xg8mc05s",
     "author": "MacroBioBoi",
     "class": "necromancer",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737344015,
+    "last_modified": "January 25, 2025",
+    "last_modified_unix": 1737832845,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
@@ -5802,7 +6018,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Necro_01_Gloom",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Necro_Caster_T4_N1_ReapersPursuit",
         "id": "Amulet_Unique_Necro_101",
         "is_mythic": false,
         "name": "Ebonpiercer",
@@ -5818,7 +6034,7 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Necro_01_Gloom",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Necro_Caster_T4_N1_ReapersPursuit",
         "id": "Amulet_Unique_Necro_101",
         "is_mythic": false,
         "name": "Ebonpiercer",
@@ -5850,7 +6066,7 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Necro_01_Gloom",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Necro_Caster_T4_N1_ReapersPursuit",
         "id": "Amulet_Unique_Necro_101",
         "is_mythic": false,
         "name": "Ebonpiercer",
@@ -5890,7 +6106,7 @@
         "plannerName": "Pit Push"
       },
       {
-        "greaterAffix": "S04_PassiveRankBonus_Necro_01_Gloom",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Necro_Caster_T4_N1_ReapersPursuit",
         "id": "Amulet_Unique_Necro_101",
         "is_mythic": false,
         "name": "Ebonpiercer",
@@ -5914,8 +6130,8 @@
     "embed_id": "k4d050y0",
     "author": "MacroBioBoi",
     "class": "necromancer",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737433162,
+    "last_modified": "January 25, 2025",
+    "last_modified_unix": 1737833033,
     "items": [
       {
         "greaterAffix": "UNIQUE_Double_Damage_Skill_Necro_CorpseExplosion",
@@ -6286,8 +6502,8 @@
     "embed_id": "2q2t80yv",
     "author": "dieoxide",
     "class": "rogue",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737451378,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738591456,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
@@ -6362,8 +6578,8 @@
     "embed_id": "iq8rp051",
     "author": "boiler",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737471907,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1738013100,
     "items": [
       {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_Shapeshifting_T1_N1_HeightenedSenses",
@@ -6510,8 +6726,8 @@
     "embed_id": "rt6x60yq",
     "author": "MacroBioBoi",
     "class": "necromancer",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737333443,
+    "last_modified": "January 25, 2025",
+    "last_modified_unix": 1737832686,
     "items": [
       {
         "greaterAffix": "UNIQUE_Double_Damage_Skill_Necro_Sever",
@@ -6658,8 +6874,8 @@
     "embed_id": "vd2yd0zp",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737449906,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738149119,
     "items": [
       {
         "greaterAffix": "UNIQUE_DamageReduction_Bleeding",
@@ -6862,8 +7078,8 @@
     "embed_id": "1e2b30yk",
     "author": "m1py",
     "class": "rogue",
-    "last_modified": "January 22, 2025",
-    "last_modified_unix": 1737526207,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1738015191,
     "items": [
       {
         "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
@@ -6882,6 +7098,22 @@
         "plannerName": "Ancestral"
       },
       {
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
+        "id": "Helm_Unique_Generic_004",
+        "is_mythic": true,
+        "name": "Heir of Perdition",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReduction_Trapped",
+        "id": "Chest_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Scoundrel's Leathers",
+        "plannerIndex": 3,
+        "plannerName": "Mythic"
+      },
+      {
         "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate",
         "id": "Boots_Unique_Rogue_100",
         "is_mythic": false,
@@ -6898,23 +7130,7 @@
         "plannerName": "T1 Starter"
       },
       {
-        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
-        "id": "Helm_Unique_Generic_002",
-        "is_mythic": true,
-        "name": "Harlequin Crest",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
-        "plannerIndex": 3,
-        "plannerName": "Mythic"
-      },
-      {
-        "greaterAffix": "UNIQUE_Luck_GIGAGIGA_HighVariance",
+        "greaterAffix": "UNIQUE_AttackSpeed_HighVariance",
         "id": "Gloves_Unique_Generic_002",
         "is_mythic": false,
         "name": "Fists of Fate",
@@ -6930,7 +7146,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate",
+        "greaterAffix": "UNIQUE_Resource_Max_AllClasses_Higher",
         "id": "Boots_Unique_Rogue_100",
         "is_mythic": false,
         "name": "Beastfall Boots",
@@ -6938,7 +7154,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
         "name": "Ring of Starless Skies",
@@ -6954,8 +7170,8 @@
     "embed_id": "wc2d00o3",
     "author": "pandaglassjaw",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737781542,
+    "last_modified": "January 30, 2025",
+    "last_modified_unix": 1738247813,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -7078,8 +7294,8 @@
     "embed_id": "cc9a05m6",
     "author": "pandaglassjaw",
     "class": "sorcerer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737781290,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738170669,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
@@ -7138,18 +7354,10 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UBERUNIQUE_CritChance_HeirOfPerdition",
-        "id": "Helm_Unique_Generic_004",
+        "greaterAffix": "UBERUNIQUE_CooldownReductionCDR_HarlequinCrest",
+        "id": "Helm_Unique_Generic_002",
         "is_mythic": true,
-        "name": "Heir of Perdition",
-        "plannerIndex": 5,
-        "plannerName": "Speedfarm"
-      },
-      {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
-        "id": "Chest_Unique_Generic_103",
-        "is_mythic": true,
-        "name": "Shroud of False Death",
+        "name": "Harlequin Crest",
         "plannerIndex": 5,
         "plannerName": "Speedfarm"
       },
@@ -7192,6 +7400,14 @@
         "name": "Tal Rasha's Iridescent Loop",
         "plannerIndex": 6,
         "plannerName": "Pit Push"
+      },
+      {
+        "greaterAffix": "S04_PassiveRankBonus_Sorc_Elemental_T2_N1_GlassCannon",
+        "id": "Chest_Unique_Sorc_002",
+        "is_mythic": false,
+        "name": "Raiment of the Infinite",
+        "plannerIndex": 5,
+        "plannerName": "Speedfarm"
       }
     ]
   },
@@ -7202,8 +7418,8 @@
     "embed_id": "v871c05a",
     "author": "serocifkre",
     "class": "necromancer",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737787410,
+    "last_modified": "February 8, 2025",
+    "last_modified_unix": 1738987772,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_LifePercent_Doombringer",
@@ -7350,11 +7566,11 @@
     "embed_id": "wc2w20z1",
     "author": "snail",
     "class": "barbarian",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737472427,
+    "last_modified": "January 31, 2025",
+    "last_modified_unix": 1738325498,
     "items": [
       {
-        "greaterAffix": "UNIQUE_Generic_LuckyHit_FlatDamage_ElementalSurge_Fire_Higher",
+        "greaterAffix": "PassiveRankBonus_Barb_01_AggressiveResistance",
         "id": "Helm_Unique_Barb_101_x1",
         "is_mythic": false,
         "name": "Ugly Bastard Helm",
@@ -7402,7 +7618,7 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UNIQUE_CDR_Skill_Barb_CalloftheAncients",
+        "greaterAffix": "UNIQUE_Resistance_All_Higher",
         "id": "Pants_Unique_Barb_100",
         "is_mythic": false,
         "name": "Arreat's Bearing",
@@ -7434,7 +7650,7 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "UBERUNIQUE_AttackSpeed_RingofStarlessSkies",
+        "greaterAffix": "UBERUNIQUE_CritChance_RingofStarlessSkies",
         "id": "Ring_Unique_Generic_101",
         "is_mythic": true,
         "name": "Ring of Starless Skies",
@@ -7538,14 +7754,6 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "Tempered_Double_Damage_Skill_Barb_Earthquake_Tier3",
-        "id": "Chest_Unique_Barb_101",
-        "is_mythic": false,
-        "name": "Mantle of Mountain's Fury",
-        "plannerIndex": 5,
-        "plannerName": "Pit Push"
-      },
-      {
         "greaterAffix": "UNIQUE_CDR_Skill_Barb_WrathoftheBerserker",
         "id": "Helm_Unique_Barb_101_x1",
         "is_mythic": false,
@@ -7568,6 +7776,14 @@
         "name": "Arreat's Bearing",
         "plannerIndex": 4,
         "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 5,
+        "plannerName": "Pit Push"
       }
     ]
   },
@@ -7578,8 +7794,8 @@
     "embed_id": "vq71l05o",
     "author": "serocifkre",
     "class": "necromancer",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737482118,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737936030,
     "items": [
       {
         "greaterAffix": "UNIQUE_LifePercent",
@@ -7782,8 +7998,8 @@
     "embed_id": "1xdcs020",
     "author": "Danger",
     "class": "druid",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737752122,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1737975885,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
@@ -7858,7 +8074,7 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "S04_Movement_Speed",
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_Shapeshifting_T1_N1_HeightenedSenses",
         "id": "Boots_Unique_Druid_100",
         "is_mythic": false,
         "name": "Wildheart Hunger",
@@ -7874,7 +8090,7 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
         "name": "Mjölnic Ryng",
@@ -7882,7 +8098,7 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
         "name": "Mjölnic Ryng",
@@ -7890,7 +8106,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "greaterAffix": "UNIQUE_CoreStat_Willpower_Higher",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
         "name": "Mjölnic Ryng",
@@ -7906,8 +8122,8 @@
     "embed_id": "sg33705p",
     "author": "boiler",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737450605,
+    "last_modified": "February 7, 2025",
+    "last_modified_unix": 1738899438,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -7918,7 +8134,7 @@
         "plannerName": "Speedfarm "
       },
       {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
         "id": "Chest_Unique_Generic_103",
         "is_mythic": true,
         "name": "Shroud of False Death",
@@ -8006,7 +8222,7 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
         "id": "Chest_Unique_Generic_103",
         "is_mythic": true,
         "name": "Shroud of False Death",
@@ -8022,8 +8238,8 @@
     "embed_id": "ott20y6j",
     "author": "boiler",
     "class": "druid",
-    "last_modified": "January 20, 2025",
-    "last_modified_unix": 1737382899,
+    "last_modified": "February 7, 2025",
+    "last_modified_unix": 1738901397,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -8202,8 +8418,8 @@
     "embed_id": "jk9ql02s",
     "author": "Danger",
     "class": "druid",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737817635,
+    "last_modified": "January 29, 2025",
+    "last_modified_unix": 1738127590,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_Resource_Max_AllClasses_HarlequinCrest",
@@ -8294,8 +8510,8 @@
     "embed_id": "b63ti0n0",
     "author": "pandaglassjaw",
     "class": "sorcerer",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737750770,
+    "last_modified": "January 27, 2025",
+    "last_modified_unix": 1738001760,
     "items": [
       {
         "greaterAffix": "UBERUNIQUE_SkillRankBonus_Generic_Category_Core_HeirOfPerdition",
@@ -8386,8 +8602,8 @@
     "embed_id": "nq6we0n2",
     "author": "Chronikz",
     "class": "spiritborn",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737751749,
+    "last_modified": "January 26, 2025",
+    "last_modified_unix": 1737935423,
     "items": [
       {
         "greaterAffix": "S04_Movement_Speed",
@@ -8478,8 +8694,8 @@
     "embed_id": "k33040na",
     "author": "Chronikz",
     "class": "spiritborn",
-    "last_modified": "January 24, 2025",
-    "last_modified_unix": 1737751706,
+    "last_modified": "January 26, 2025",
+    "last_modified_unix": 1737935887,
     "items": [
       {
         "greaterAffix": "X1_SkillRankBonus_Spiritborn_Special_ToxicSkin",
@@ -8594,8 +8810,8 @@
     "embed_id": "b0dc00n7",
     "author": "boiler",
     "class": "druid",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737472486,
+    "last_modified": "February 7, 2025",
+    "last_modified_unix": 1738963903,
     "items": [
       {
         "greaterAffix": "S04_CoreStat_WillpowerPercent",
@@ -8638,15 +8854,7 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "S04_Movement_Speed",
-        "id": "Boots_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Flickerstep",
-        "plannerIndex": 3,
-        "plannerName": "Speedfarming"
-      },
-      {
-        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate_Higher",
+        "greaterAffix": "UNIQUE_CoreStat_WillpowerPercent_Higher",
         "id": "Ring_Unique_Druid_100",
         "is_mythic": false,
         "name": "Airidah's Inexorable Will",
@@ -8670,14 +8878,6 @@
         "plannerName": "Speedfarming"
       },
       {
-        "greaterAffix": "S04_Movement_Speed",
-        "id": "Boots_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Flickerstep",
-        "plannerIndex": 1,
-        "plannerName": "Ancestral"
-      },
-      {
         "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
         "id": "Ring_Unique_Druid_102",
         "is_mythic": false,
@@ -8686,12 +8886,52 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "UNIQUE_CoreStat_WillpowerPercent_Higher",
+        "greaterAffix": "UNIQUE_CDR_Tag_Generic_Ultimate_Higher",
         "id": "Ring_Unique_Druid_100",
         "is_mythic": false,
         "name": "Airidah's Inexorable Will",
         "plannerIndex": 1,
         "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "S04_CooldownReductionCDR",
+        "id": "S05_BSK_Boots_Unique_Generic_001",
+        "is_mythic": false,
+        "name": "Rakanoth's Wake",
+        "plannerIndex": 1,
+        "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReductionClose",
+        "id": "Boots_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Flickerstep",
+        "plannerIndex": 3,
+        "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UNIQUE_DamageReductionClose",
+        "id": "Boots_Unique_Generic_002",
+        "is_mythic": false,
+        "name": "Flickerstep",
+        "plannerIndex": 2,
+        "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "S04_CoreStat_WillpowerPercent",
+        "id": "Helm_Unique_Druid_100",
+        "is_mythic": false,
+        "name": "Tempest Roar",
+        "plannerIndex": 5,
+        "plannerName": "Flickerless"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_LifeFlat_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 5,
+        "plannerName": "Flickerless"
       },
       {
         "greaterAffix": "UNIQUE_LifeFlat_HigherHigher",
@@ -8702,7 +8942,7 @@
         "plannerName": "Ancestral"
       },
       {
-        "greaterAffix": "S04_Movement_Speed",
+        "greaterAffix": "UNIQUE_DamageReductionClose",
         "id": "Boots_Unique_Generic_002",
         "is_mythic": false,
         "name": "Flickerstep",
@@ -8742,20 +8982,28 @@
         "plannerName": "Mythic"
       },
       {
-        "greaterAffix": "S04_Movement_Speed",
-        "id": "Boots_Unique_Generic_002",
-        "is_mythic": false,
-        "name": "Flickerstep",
-        "plannerIndex": 2,
-        "plannerName": "Mythic"
-      },
-      {
         "greaterAffix": "S04_CoreStat_WillpowerPercent",
         "id": "Helm_Unique_Druid_100",
         "is_mythic": false,
         "name": "Tempest Roar",
         "plannerIndex": 2,
         "plannerName": "Mythic"
+      },
+      {
+        "greaterAffix": "UNIQUE_CoreStat_WillpowerPercent_Higher",
+        "id": "Ring_Unique_Druid_100",
+        "is_mythic": false,
+        "name": "Airidah's Inexorable Will",
+        "plannerIndex": 5,
+        "plannerName": "Flickerless"
+      },
+      {
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Druid_NatureMagic_T3_N3_EndlessTempest",
+        "id": "Ring_Unique_Druid_102",
+        "is_mythic": false,
+        "name": "Mjölnic Ryng",
+        "plannerIndex": 5,
+        "plannerName": "Flickerless"
       }
     ]
   },
@@ -8766,8 +9014,8 @@
     "embed_id": "9l4tf05t",
     "author": "dieoxide",
     "class": "rogue",
-    "last_modified": "January 25, 2025",
-    "last_modified_unix": 1737813310,
+    "last_modified": "February 3, 2025",
+    "last_modified_unix": 1738589498,
     "items": [
       {
         "greaterAffix": null,
@@ -8840,6 +9088,14 @@
         "name": "Skyhunter",
         "plannerIndex": 1,
         "plannerName": "Starter"
+      },
+      {
+        "greaterAffix": "UNIQUE_PassiveRankBonus_Rogue_04_TrickAttacks",
+        "id": "Helm_Unique_Rogue_001",
+        "is_mythic": false,
+        "name": "Cowl of the Nameless",
+        "plannerIndex": 6,
+        "plannerName": "Beastfall Barrage"
       },
       {
         "greaterAffix": null,
@@ -8944,6 +9200,38 @@
         "name": "Crown of Lucion",
         "plannerIndex": 4,
         "plannerName": "Speedfarming"
+      },
+      {
+        "greaterAffix": "UBERUNIQUE_CoreStats_All_ShroudOfFalseDeath",
+        "id": "Chest_Unique_Generic_103",
+        "is_mythic": true,
+        "name": "Shroud of False Death",
+        "plannerIndex": 6,
+        "plannerName": "Beastfall Barrage"
+      },
+      {
+        "greaterAffix": "UNIQUE_CritDamage_HigherWeapon",
+        "id": "2HBow_Unique_Rogue_001",
+        "is_mythic": false,
+        "name": "Skyhunter",
+        "plannerIndex": 6,
+        "plannerName": "Beastfall Barrage"
+      },
+      {
+        "greaterAffix": "Movement_Speed",
+        "id": "Boots_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Beastfall Boots",
+        "plannerIndex": 6,
+        "plannerName": "Beastfall Barrage"
+      },
+      {
+        "greaterAffix": "UNIQUE_CDR_Skill_Rogue_RainOfArrows",
+        "id": "Amulet_Unique_Rogue_100",
+        "is_mythic": false,
+        "name": "Word of Hakan",
+        "plannerIndex": 6,
+        "plannerName": "Beastfall Barrage"
       }
     ]
   },
@@ -8954,8 +9242,8 @@
     "embed_id": "ls8hq05t",
     "author": "deezythemonster",
     "class": "spiritborn",
-    "last_modified": "January 21, 2025",
-    "last_modified_unix": 1737450749,
+    "last_modified": "February 1, 2025",
+    "last_modified_unix": 1738378353,
     "items": [
       {
         "greaterAffix": "UNIQUE_CritChance_HighVariance",
@@ -9076,6 +9364,14 @@
         "name": "Yen's Blessing",
         "plannerIndex": 2,
         "plannerName": "Ancestral"
+      },
+      {
+        "greaterAffix": null,
+        "id": "Quarterstaff_Unique_Spiritborn_012_x1",
+        "is_mythic": false,
+        "name": "Sepazontec",
+        "plannerIndex": 7,
+        "plannerName": "Sepazontec"
       }
     ]
   }

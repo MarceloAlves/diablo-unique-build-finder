@@ -168,6 +168,12 @@
     "classes": ["druid", "sorcerer", "spiritborn"]
   },
   {
+    "id": "Gloves_Unique_Rogue_100",
+    "name": "Grasp of Shadow",
+    "is_mythic": false,
+    "classes": ["rogue"]
+  },
+  {
     "id": "Boots_Unique_Necro_100",
     "name": "Greaves of the Empty Tomb",
     "is_mythic": false,
@@ -316,7 +322,7 @@
     "id": "S05_BSK_Boots_Unique_Generic_001",
     "name": "Rakanoth's Wake",
     "is_mythic": false,
-    "classes": ["barbarian", "sorcerer", "spiritborn"]
+    "classes": ["barbarian", "druid", "sorcerer", "spiritborn"]
   },
   {
     "id": "1HSword_Unique_Barb_101",
