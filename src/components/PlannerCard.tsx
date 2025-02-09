@@ -29,9 +29,9 @@ export const PlannerCard = ({
   const hasMultipleSelections = selectedUniques.length > 1;
 
   return (
-    <div className="rounded-xl border border-gray-600 shadow">
+    <div className="rounded-xl border-1 border-gray-600 shadow-sm">
       <div className="flex flex-col space-y-1.5 p-6">
-        <div className="font-semibold leading-none tracking-tight">
+        <div className="leading-none font-semibold tracking-tight">
           <a
             href={planner.permalink}
             target="_blank"
@@ -56,7 +56,7 @@ export const PlannerCard = ({
           </a>
         </div>
         <div>
-          <div className="py-4 font-semibold leading-none tracking-tight">
+          <div className="py-4 leading-none font-semibold tracking-tight">
             Variants
           </div>
           <ul>
