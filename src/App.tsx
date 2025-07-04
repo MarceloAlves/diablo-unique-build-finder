@@ -138,7 +138,7 @@ function App() {
       {filteredData &&
         Object.entries(filteredData).map(([className, plannerData]) => (
           <div key={className} className="flex flex-col gap-4 pt-20">
-            <h2 className="text-2xl font-bold capitalize text-gray-200">
+            <h2 className="text-2xl font-bold text-gray-200 capitalize">
               {className}
             </h2>
 
