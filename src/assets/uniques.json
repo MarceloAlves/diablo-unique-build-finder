@@ -33,7 +33,7 @@
     "id": "1HSword_Unique_Generic_100",
     "name": "Azurewrath",
     "is_mythic": false,
-    "classes": ["rogue", "sorcerer"]
+    "classes": ["barbarian", "rogue", "sorcerer"]
   },
   {
     "id": "Pants_Unique_Spiritborn_100",
@@ -93,7 +93,7 @@
     "id": "S05_BSK_Helm_Unique_Generic_001",
     "name": "Crown of Lucion",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "necromancer"]
+    "classes": ["barbarian", "necromancer"]
   },
   {
     "id": "Gloves_Unique_Necro_101",
@@ -540,7 +540,7 @@
     "id": "2HSword_Unique_Generic_001",
     "name": "The Grandfather",
     "is_mythic": true,
-    "classes": ["barbarian", "necromancer"]
+    "classes": ["barbarian"]
   },
   {
     "id": "Gloves_Unique_Necro_102",
@@ -607,12 +607,6 @@
     "name": "Wildheart Hunger",
     "is_mythic": false,
     "classes": ["druid"]
-  },
-  {
-    "id": "2HBow_Unique_Rogue_006",
-    "name": "Windforce",
-    "is_mythic": false,
-    "classes": ["rogue"]
   },
   {
     "id": "Amulet_Unique_Rogue_100",
