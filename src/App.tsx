@@ -10,6 +10,7 @@ const DEFAULT_CLASSES = [
   "barbarian",
   "druid",
   "necromancer",
+  "paladin",
   "rogue",
   "sorcerer",
   "spiritborn",
@@ -75,38 +76,16 @@ function App() {
   return (
     <div className="container">
       <div className="grid w-full grid-cols-3 gap-4 py-4 md:flex md:flex-wrap md:justify-center">
-        <ClassIcon
-          name="barbarian"
-          selected={selectedClasses.includes("barbarian")}
-          onClick={handleClassSelection}
-        />
-        <ClassIcon
-          name="druid"
-          selected={selectedClasses.includes("druid")}
-          onClick={handleClassSelection}
-        />
-        <ClassIcon
-          name="necromancer"
-          selected={selectedClasses.includes("necromancer")}
-          onClick={handleClassSelection}
-        />
-        <ClassIcon
-          name="rogue"
-          selected={selectedClasses.includes("rogue")}
-          onClick={handleClassSelection}
-        />
-        <ClassIcon
-          name="sorcerer"
-          selected={selectedClasses.includes("sorcerer")}
-          onClick={handleClassSelection}
-        />
-        <ClassIcon
-          name="spiritborn"
-          selected={selectedClasses.includes("spiritborn")}
-          onClick={handleClassSelection}
-        />
+        {DEFAULT_CLASSES.map((cls) => (
+          <ClassIcon
+            key={cls}
+            name={cls}
+            selected={selectedClasses.includes(cls)}
+            onClick={handleClassSelection}
+          />
+        ))}
       </div>
-      <div className="grid grid-cols-[repeat(auto-fit,minmax(90px,_1fr))] gap-4">
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(90px,1fr))] gap-4">
         {filteredUniques.map((item) => (
           <div
             key={item.id}

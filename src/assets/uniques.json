@@ -6,16 +6,16 @@
     "classes": ["druid"]
   },
   {
+    "id": "Ring_Unique_Paladin_001",
+    "name": "Argent Veil",
+    "is_mythic": false,
+    "classes": ["paladin"]
+  },
+  {
     "id": "Pants_Unique_Barb_100",
     "name": "Arreat's Bearing",
     "is_mythic": false,
     "classes": ["barbarian"]
-  },
-  {
-    "id": "1HDagger_Unique_Rogue_002",
-    "name": "Asheara's Khanjar",
-    "is_mythic": false,
-    "classes": ["rogue"]
   },
   {
     "id": "Boots_Unique_Rogue_101",
@@ -28,12 +28,6 @@
     "name": "Axial Conduit",
     "is_mythic": false,
     "classes": ["sorcerer"]
-  },
-  {
-    "id": "1HSword_Unique_Generic_100",
-    "name": "Azurewrath",
-    "is_mythic": false,
-    "classes": ["barbarian", "rogue", "sorcerer"]
   },
   {
     "id": "Pants_Unique_Spiritborn_100",
@@ -63,7 +57,13 @@
     "id": "Amulet_Unique_Generic_101",
     "name": "Banished Lord's Talisman",
     "is_mythic": false,
-    "classes": ["barbarian", "necromancer"]
+    "classes": ["necromancer"]
+  },
+  {
+    "id": "Amulet_Unique_Barb_100",
+    "name": "Battle Trance",
+    "is_mythic": false,
+    "classes": ["barbarian"]
   },
   {
     "id": "Boots_Unique_Rogue_100",
@@ -74,6 +74,12 @@
   {
     "id": "Pants_Unique_Necro_100",
     "name": "Blood Moon Breeches",
+    "is_mythic": false,
+    "classes": ["necromancer"]
+  },
+  {
+    "id": "2HScythe_Unique_Necro_100",
+    "name": "Bloodless Scream",
     "is_mythic": false,
     "classes": ["necromancer"]
   },
@@ -93,13 +99,19 @@
     "id": "S05_BSK_Helm_Unique_Generic_001",
     "name": "Crown of Lucion",
     "is_mythic": false,
-    "classes": ["barbarian", "necromancer"]
+    "classes": ["barbarian", "necromancer", "paladin", "rogue"]
   },
   {
     "id": "Gloves_Unique_Necro_101",
     "name": "Cruor's Embrace",
     "is_mythic": false,
     "classes": ["necromancer"]
+  },
+  {
+    "id": "Gloves_Unique_Paladin_003",
+    "name": "Dawnfire",
+    "is_mythic": false,
+    "classes": ["paladin"]
   },
   {
     "id": "Helm_Unique_Necro_100",
@@ -120,16 +132,10 @@
     "classes": ["druid"]
   },
   {
-    "id": "1HSword_Unique_Generic_001",
-    "name": "Doombringer",
-    "is_mythic": true,
-    "classes": ["barbarian", "necromancer"]
-  },
-  {
-    "id": "Ring_Unique_Druid_101",
-    "name": "Earthbreaker",
+    "id": "2HBow_Unique_Rogue_100",
+    "name": "Eaglehorn",
     "is_mythic": false,
-    "classes": ["druid"]
+    "classes": ["rogue"]
   },
   {
     "id": "Amulet_Unique_Necro_101",
@@ -138,28 +144,28 @@
     "classes": ["necromancer"]
   },
   {
+    "id": "Amulet_Unique_Sorc_100",
+    "name": "Esadora's Overflowing Cameo",
+    "is_mythic": false,
+    "classes": ["sorcerer"]
+  },
+  {
+    "id": "Boots_Unique_Sorc_100",
+    "name": "Esu's Heirloom",
+    "is_mythic": false,
+    "classes": ["sorcerer"]
+  },
+  {
     "id": "Pants_Unique_Rogue_004",
     "name": "Eyes in the Dark",
     "is_mythic": false,
     "classes": ["rogue"]
   },
   {
-    "id": "2HSword_Unique_Barb_002",
-    "name": "Fields of Crimson",
-    "is_mythic": false,
-    "classes": ["barbarian"]
-  },
-  {
     "id": "Gloves_Unique_Generic_002",
     "name": "Fists of Fate",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "rogue", "sorcerer", "spiritborn"]
-  },
-  {
-    "id": "Gloves_Unique_Sorc_101",
-    "name": "Flameweaver",
-    "is_mythic": false,
-    "classes": ["sorcerer"]
+    "classes": ["barbarian", "druid", "rogue"]
   },
   {
     "id": "1HMace_Unique_Druid_001",
@@ -171,13 +177,13 @@
     "id": "Boots_Unique_Generic_002",
     "name": "Flickerstep",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "sorcerer"]
+    "classes": ["druid", "sorcerer"]
   },
   {
-    "id": "Gloves_Unique_Generic_003",
-    "name": "Frostburn",
+    "id": "Amulet_Unique_Sorc_101",
+    "name": "Fractured Winterglass",
     "is_mythic": false,
-    "classes": ["rogue"]
+    "classes": ["sorcerer"]
   },
   {
     "id": "Gloves_Unique_Sorc_002",
@@ -189,7 +195,7 @@
     "id": "Helm_Unique_Generic_003",
     "name": "Godslayer Crown",
     "is_mythic": false,
-    "classes": ["necromancer", "rogue", "sorcerer", "spiritborn"]
+    "classes": ["druid", "necromancer", "paladin", "rogue", "sorcerer"]
   },
   {
     "id": "Gloves_Unique_Rogue_100",
@@ -204,6 +210,12 @@
     "classes": ["necromancer"]
   },
   {
+    "id": "1HSword_Unique_Paladin_002",
+    "name": "Griswold's Opus",
+    "is_mythic": false,
+    "classes": ["paladin"]
+  },
+  {
     "id": "Helm_Unique_Sorc_101",
     "name": "Hail of Verglas",
     "is_mythic": false,
@@ -213,7 +225,7 @@
     "id": "Helm_Unique_Generic_002",
     "name": "Harlequin Crest",
     "is_mythic": true,
-    "classes": ["barbarian", "druid", "rogue", "sorcerer", "spiritborn"]
+    "classes": ["barbarian", "druid", "sorcerer"]
   },
   {
     "id": "Helm_Unique_Spiritborn_009_x1",
@@ -229,16 +241,23 @@
       "barbarian",
       "druid",
       "necromancer",
+      "paladin",
       "rogue",
       "sorcerer",
       "spiritborn"
     ]
   },
   {
-    "id": "2HMace_Unique_Barb_001",
-    "name": "Hellhammer",
+    "id": "1HShield_Unique_Paladin_004",
+    "name": "Herald of Zakarum",
     "is_mythic": false,
-    "classes": ["barbarian"]
+    "classes": ["paladin"]
+  },
+  {
+    "id": "1HMace_Unique_Paladin_001",
+    "name": "Herald's Morningstar",
+    "is_mythic": false,
+    "classes": ["paladin"]
   },
   {
     "id": "Boots_Unique_Barb_101",
@@ -265,16 +284,28 @@
     "classes": ["spiritborn"]
   },
   {
+    "id": "Helm_Unique_Paladin_002",
+    "name": "Judicant's Glaivehelm",
+    "is_mythic": false,
+    "classes": ["paladin"]
+  },
+  {
     "id": "Pants_Unique_Necro_101",
     "name": "Kessime's Legacy",
     "is_mythic": false,
     "classes": ["necromancer"]
   },
   {
-    "id": "1HShield_Unique_Necro_100",
-    "name": "Lidless Wall",
+    "id": "1HFlail_Unique_Paladin_003",
+    "name": "Light's Rebuke",
     "is_mythic": false,
-    "classes": ["necromancer"]
+    "classes": ["paladin"]
+  },
+  {
+    "id": "S05_BSK_Amulet_Unique_Generic_001",
+    "name": "Locran's Talisman",
+    "is_mythic": false,
+    "classes": ["barbarian"]
   },
   {
     "id": "Helm_Unique_Spiritborn_011_x1",
@@ -301,6 +332,18 @@
     "classes": ["barbarian"]
   },
   {
+    "id": "Chest_Unique_Paladin_001",
+    "name": "Mantle of the Grey",
+    "is_mythic": false,
+    "classes": ["paladin"]
+  },
+  {
+    "id": "Amulet_Unique_Generic_100",
+    "name": "Melted Heart of Selig",
+    "is_mythic": true,
+    "classes": ["barbarian", "necromancer", "spiritborn"]
+  },
+  {
     "id": "Ring_Unique_Druid_102",
     "name": "Mjölnic Ryng",
     "is_mythic": false,
@@ -323,12 +366,6 @@
     "name": "Ophidian Iris",
     "is_mythic": false,
     "classes": ["sorcerer"]
-  },
-  {
-    "id": "2HMace_Unique_Barb_100",
-    "name": "Overkill",
-    "is_mythic": false,
-    "classes": ["barbarian"]
   },
   {
     "id": "Gloves_Unique_Generic_004",
@@ -364,7 +401,7 @@
     "id": "S05_BSK_Boots_Unique_Generic_001",
     "name": "Rakanoth's Wake",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "sorcerer", "spiritborn"]
+    "classes": ["druid"]
   },
   {
     "id": "1HSword_Unique_Barb_101",
@@ -376,7 +413,13 @@
     "id": "Chest_Unique_Generic_100",
     "name": "Razorplate",
     "is_mythic": false,
-    "classes": ["barbarian", "spiritborn"]
+    "classes": ["spiritborn"]
+  },
+  {
+    "id": "2HSword_Unique_Paladin_002",
+    "name": "Red Sermon",
+    "is_mythic": false,
+    "classes": ["paladin"]
   },
   {
     "id": "Ring_Unique_Necro_100",
@@ -398,20 +441,21 @@
       "barbarian",
       "druid",
       "necromancer",
+      "paladin",
       "rogue",
       "sorcerer",
       "spiritborn"
     ]
   },
   {
-    "id": "Ring_Unique_Spiritborn_006_x1",
-    "name": "Ring of the Midnight Sun",
+    "id": "Ring_Unique_Spiritborn_005_x1",
+    "name": "Ring of the Midday Hunt",
     "is_mythic": false,
     "classes": ["spiritborn"]
   },
   {
-    "id": "Ring_Unique_Spiritborn_002_x1",
-    "name": "Ring of Writhing Moon",
+    "id": "Ring_Unique_Spiritborn_006_x1",
+    "name": "Ring of the Midnight Sun",
     "is_mythic": false,
     "classes": ["spiritborn"]
   },
@@ -428,10 +472,22 @@
     "classes": ["druid"]
   },
   {
+    "id": "Amulet_Unique_Paladin_002",
+    "name": "Sanctis of Kethamar",
+    "is_mythic": false,
+    "classes": ["paladin"]
+  },
+  {
     "id": "Chest_Unique_Rogue_100",
     "name": "Scoundrel's Leathers",
     "is_mythic": false,
     "classes": ["rogue"]
+  },
+  {
+    "id": "Ring_Unique_Paladin_002",
+    "name": "Seal of the Second Trumpet",
+    "is_mythic": false,
+    "classes": ["paladin"]
   },
   {
     "id": "Quarterstaff_Unique_Spiritborn_012_x1",
@@ -443,13 +499,7 @@
     "id": "S05_BSK_1HSword_Unique_Generic_001",
     "name": "Shard of Verathiel",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "rogue", "sorcerer"]
-  },
-  {
-    "id": "2HPolearm_Unique_Generic_001",
-    "name": "Shattered Vow",
-    "is_mythic": true,
-    "classes": ["barbarian"]
+    "classes": ["barbarian", "druid", "rogue"]
   },
   {
     "id": "Chest_Unique_Generic_103",
@@ -459,16 +509,29 @@
       "barbarian",
       "druid",
       "necromancer",
+      "paladin",
       "rogue",
       "sorcerer",
       "spiritborn"
     ]
   },
   {
+    "id": "Chest_Unique_Rogue_101",
+    "name": "Shroud of Khanduras",
+    "is_mythic": false,
+    "classes": ["rogue"]
+  },
+  {
     "id": "2HBow_Unique_Rogue_001",
     "name": "Skyhunter",
     "is_mythic": false,
     "classes": ["rogue"]
+  },
+  {
+    "id": "Chest_Unique_Generic_101",
+    "name": "Soulbrand",
+    "is_mythic": false,
+    "classes": ["spiritborn"]
   },
   {
     "id": "2HStaff_Unique_Sorc_002",
@@ -483,34 +546,16 @@
     "classes": ["sorcerer"]
   },
   {
-    "id": "Totem_Unique_Druid_101_x1",
-    "name": "Stone of Vehemen",
-    "is_mythic": false,
-    "classes": ["druid"]
-  },
-  {
     "id": "Pants_Unique_Druid_001",
     "name": "Storm's Companion",
     "is_mythic": false,
     "classes": ["druid"]
   },
   {
-    "id": "1HFocus_Unique_Sorc_100",
-    "name": "Strike of Stormhorn",
+    "id": "1HSword_Unique_Paladin_001",
+    "name": "Supplication",
     "is_mythic": false,
-    "classes": ["sorcerer"]
-  },
-  {
-    "id": "Amulet_Unique_Spiritborn_100",
-    "name": "Sunbird's Gorget",
-    "is_mythic": false,
-    "classes": ["spiritborn"]
-  },
-  {
-    "id": "Quarterstaff_Unique_Spiritborn_001",
-    "name": "Sunstained War-Crozier",
-    "is_mythic": false,
-    "classes": ["spiritborn"]
+    "classes": ["paladin"]
   },
   {
     "id": "Ring_Unique_Sorc_101",
@@ -519,16 +564,10 @@
     "classes": ["sorcerer"]
   },
   {
-    "id": "Pants_Unique_Generic_101",
-    "name": "Tassets of the Dawning Sky",
-    "is_mythic": false,
-    "classes": ["barbarian"]
-  },
-  {
     "id": "Pants_Unique_Generic_100",
     "name": "Temerity",
     "is_mythic": false,
-    "classes": ["spiritborn"]
+    "classes": ["druid", "sorcerer", "spiritborn"]
   },
   {
     "id": "Helm_Unique_Druid_100",
@@ -549,6 +588,12 @@
     "classes": ["necromancer"]
   },
   {
+    "id": "1HWand_Unique_Sorc_101",
+    "name": "The Oculus",
+    "is_mythic": false,
+    "classes": ["sorcerer"]
+  },
+  {
     "id": "S05_BSK_1HSword_Unique_Barbarian_001",
     "name": "The Third Blade",
     "is_mythic": false,
@@ -558,25 +603,13 @@
     "id": "Pants_Unique_Generic_102",
     "name": "Tibault's Will",
     "is_mythic": false,
-    "classes": ["barbarian", "druid", "rogue", "sorcerer"]
+    "classes": ["barbarian", "druid", "sorcerer", "spiritborn"]
   },
   {
     "id": "Helm_Unique_Barb_100",
     "name": "Tuskhelm of Joritz the Mighty",
     "is_mythic": false,
     "classes": ["barbarian"]
-  },
-  {
-    "id": "Gloves_Unique_Barb_100",
-    "name": "Twin Strikes",
-    "is_mythic": false,
-    "classes": ["barbarian"]
-  },
-  {
-    "id": "Chest_Unique_Generic_127",
-    "name": "Tyrael's Might",
-    "is_mythic": true,
-    "classes": ["necromancer"]
   },
   {
     "id": "Helm_Unique_Barb_101_x1",
@@ -597,14 +630,14 @@
     "classes": ["druid"]
   },
   {
-    "id": "1HAxe_Unique_Druid_100",
-    "name": "Waxing Gibbous",
+    "id": "1HShield_Unique_Paladin_003",
+    "name": "Ward of the White Dove",
     "is_mythic": false,
-    "classes": ["druid"]
+    "classes": ["paladin"]
   },
   {
-    "id": "Boots_Unique_Druid_100",
-    "name": "Wildheart Hunger",
+    "id": "1HAxe_Unique_Druid_100",
+    "name": "Waxing Gibbous",
     "is_mythic": false,
     "classes": ["druid"]
   },
@@ -625,11 +658,5 @@
     "name": "Wushe Nak Pa",
     "is_mythic": false,
     "classes": ["spiritborn"]
-  },
-  {
-    "id": "Boots_Unique_Generic_125",
-    "name": "Yen's Blessing",
-    "is_mythic": false,
-    "classes": ["barbarian"]
   }
 ]
